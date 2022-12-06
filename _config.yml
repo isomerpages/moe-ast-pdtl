@@ -44,5 +44,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://site-creation-base2-staging.netlify.app
-prod: https://site-creation-base2-prod.netlify.app
+staging: https://staging.dh7eo6ru240ih.amplifyapp.com
+prod: https://master.dh7eo6ru240ih.amplifyapp.com
