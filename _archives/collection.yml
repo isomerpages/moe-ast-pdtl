@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - Resources/Teachers' Resources.md
       - Resources/Students' Resources.md
       - Resources/.keep
       - 3rd Lecture Series 2019.md
