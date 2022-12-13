@@ -1,0 +1,4 @@
+collections:
+  pd-training-schedule:
+    output: true
+    order: []
