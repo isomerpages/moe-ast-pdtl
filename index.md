@@ -17,10 +17,11 @@ sections:
         - title: Student's resources
           description: ""
           url: archives/resources/students-resources
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Welcome Message by Principal Master Teacher
+      subtitle: "இணைய வாசலில் சந்திக்கின்றோம் "
+      button: Read more
+      url: /about-us/principals-message
+      image: /images/pmtt-das.jpg
+      alt: Image alt text
 ---
