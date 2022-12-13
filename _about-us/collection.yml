@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
       - Mission and Vision.md
       - About Master Teachers.md
