@@ -1,4 +1,5 @@
 collections:
   archives:
     output: true
-    order: []
+    order:
+      - Tamil Language Seminar 2019.md
