@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: தமிழாசிரியர் பணித்திறன் மேம்பாட்டகம்
+      subtitle: Professional Development of Tamil Language Teachers
       background: /images/hero-banner.png
       key_highlights:
         - title: Teachers' resources
