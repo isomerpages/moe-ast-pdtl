@@ -2,5 +2,6 @@ collections:
   professional-excellence:
     output: true
     order:
+      - Teacher Growth Model.md
       - Professional Development Framework.md
       - Guiding Principles for PD Tamil Language.md
