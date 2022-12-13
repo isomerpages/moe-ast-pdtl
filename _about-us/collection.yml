@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Mission and Vision.md
       - About Master Teachers.md
