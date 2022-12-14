@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - SkillsFuture for Educators (SFED).md
       - Resources/Teachers' Resources.md
       - Resources/Students' Resources.md
       - Resources/.keep
