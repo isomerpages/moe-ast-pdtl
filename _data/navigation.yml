@@ -1,6 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Professional Excellence
+    collection: professional-excellence
+  - title: Programmes
+    collection: pd-training-schedule
+  - title: Archives
+    collection: archives
