@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Teachers' resources
           description: ""
-          url: archives/resources/teaarchives/resources/teachers-resourceschers'-resources
+          url: /archives/resources/teachers-resources/
         - title: Student's resources
           description: ""
           url: archives/resources/students-resources
