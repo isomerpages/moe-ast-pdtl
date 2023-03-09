@@ -37,6 +37,7 @@ sections:
   - infobar:
       url: https://vimeo.com/738561141
       title: Webinar for TL teachers 2022
+      button: Watch the video here
   - infobar:
       title: Tamil Culture & Tradition
       subtitle: learn for life
