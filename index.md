@@ -41,7 +41,6 @@ sections:
   - infobar:
       title: Tamil Culture & Tradition
       subtitle: learn for life
-      description: <iframe src="https://player.vimeo.com/video/738541396?h=1745415a83"
-        width="640" height="360" frameborder="0" allow="autoplay; fullscreen;
-        picture-in-picture" allowfullscreen></iframe>
+      url: https://vimeo.com/738541396
+      button: Click here to watch
 ---
