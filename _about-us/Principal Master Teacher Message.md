@@ -3,12 +3,11 @@ title: Principal Master Teacher Message
 permalink: /about-us/principals-master-teacher-message/
 description: ""
 ---
-
 **இணைய வாசலில் சந்திக்கின்றோம்** 
 
 **Welcome Message by** **Principal Master Teacher**
 
-  
+ ![](/images/pmtt-das.jpg)
 
 **பெருமதிப்பிற்குரிய தமிழாசிரியர்களே,**
 
