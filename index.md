@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Title
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -52,3 +52,4 @@ sections:
         width="640" height="360" frameborder="0" allow="autoplay; fullscreen;
         picture-in-picture" allowfullscreen></iframe>
 ---
+
