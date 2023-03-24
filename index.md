@@ -43,11 +43,6 @@ sections:
       image: /images/home22.png
       alt: Image alt text
       description: Teaching and Learning through Musical Songs
-  - infobar:
-      title: Tamil Culture & Tradition
-      subtitle: learn for life
-      url: https://vimeo.com/738541396
-      button: Click here to watch
   - infopic:
       title: Webinar for TL teachers 2022
       description: Infopic description
@@ -55,4 +50,9 @@ sections:
       url: https://vimeo.com/738561141
       image: /images/webinar.png
       alt: Image alt text
+  - infobar:
+      title: Tamil Culture & Tradition
+      subtitle: learn for life
+      url: https://vimeo.com/738541396
+      button: Click here to watch
 ---
