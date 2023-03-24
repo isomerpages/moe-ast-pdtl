@@ -2,4 +2,4 @@ collections:
   pd-training-schedule:
     output: true
     order:
-      - Training Schedule 2019.md
+      - Training Schedule 2023.md
