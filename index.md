@@ -30,11 +30,19 @@ sections:
         width="640" height="292" frameborder="0" allow="autoplay; fullscreen;
         picture-in-picture" allowfullscreen></iframe>
   - infopic:
-      title: Teaching and Learning through Musical Songs
+      title: நெஞ்சில் நிற்பவை
+      description: 4th Lecture Series -Feb 2022
+      button: Watch Lecture
+      url: https://vimeo.com/754087974
+      image: /images/home2.png
+      alt: Image alt text
+  - infopic:
+      title: நெஞ்சில் நிற்பவை
       button: watch video here
       url: /https://vimeo.com/754110391
       image: /images/home22.png
       alt: Image alt text
+      description: Teaching and Learning through Musical Songs
   - infobar:
       url: https://vimeo.com/738561141
       title: Webinar for TL teachers 2022
