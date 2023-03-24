@@ -8,3 +8,5 @@ links:
     collection: pd-training-schedule
   - title: Archives
     collection: archives
+  - title: Contact us
+    url: /contact-us/
