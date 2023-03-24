@@ -29,10 +29,12 @@ sections:
       description: <iframe src="https://player.vimeo.com/video/754087974?h=cc312835d3"
         width="640" height="292" frameborder="0" allow="autoplay; fullscreen;
         picture-in-picture" allowfullscreen></iframe>
-  - infobar:
+  - infopic:
       title: Teaching and Learning through Musical Songs
-      button: Click here to watch the video
+      button: watch video here
       url: /https://vimeo.com/754110391
+      image: /images/home22.png
+      alt: Image alt text
   - infobar:
       url: https://vimeo.com/738561141
       title: Webinar for TL teachers 2022
