@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: தமிழாசிரியர் பணித்திறன் மேம்பாட்டகம்
+      title: தமிழாசசிரியர் பணித்திறன் மேம்பாட்டகம்
       subtitle: Professional Development of Tamil Language Teachers
       background: /images/hero-banner.png
       key_highlights:
@@ -19,10 +19,9 @@ sections:
           url: archives/resources/students-resources
   - infopic:
       title: Welcome Message by Principal Master Teacher
-      subtitle: "இணைய வாசலில் சந்திக்கின்றோம் "
       button: Read more
       url: /about-us/principals-message
-      image: /images/pmtt-das.jpg
+      image: /images/pmtt-uptlc.jpg
       alt: Image alt text
   - infobar:
       title: நெஞ்சில் நிற்பவை
