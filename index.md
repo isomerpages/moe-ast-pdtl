@@ -23,12 +23,6 @@ sections:
       url: /about-us/principals-message
       image: /images/pmtt-uptlc.jpg
       alt: Image alt text
-  - infobar:
-      title: நெஞ்சில் நிற்பவை
-      subtitle: 4th Lecture Series -Feb 2022
-      description: <iframe src="https://player.vimeo.com/video/754087974?h=cc312835d3"
-        width="640" height="292" frameborder="0" allow="autoplay; fullscreen;
-        picture-in-picture" allowfullscreen></iframe>
   - infopic:
       title: நெஞ்சில் நிற்பவை
       description: 4th Lecture Series -Feb 2022
