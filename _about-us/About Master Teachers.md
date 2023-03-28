@@ -3,7 +3,7 @@ title: About Master Teachers
 permalink: /about-us/about-master-teachers/
 description: ""
 ---
-<img src="/images/tn-uptlc_master_teacher_02-jpg-2.jpg" style="width:300px" />
+<img src="/images/pmtt-uptlc.jpg" style="width:300px" />
 <h4>Mr Subramaniam Nadaison<br>
 Master Teacher (Tamil Language)</h4>
 
