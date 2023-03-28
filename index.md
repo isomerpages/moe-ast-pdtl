@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: தமிழாசசிரியர் பணித்திறன் மேம்பாட்டகம்
+      title: தமிழாசிரியர் பணித்திறன் மேம்பாட்டகம்
       subtitle: Professional Development of Tamil Language Teachers
       background: /images/hero-banner.png
       key_highlights:
