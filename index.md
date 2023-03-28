@@ -39,7 +39,7 @@ sections:
   - infopic:
       title: நெஞ்சில் நிற்பவை
       button: "click here to watch video "
-      url: /https://vimeo.com/754110391
+      url: https://vimeo.com/754110391
       image: /images/home22.png
       alt: Image alt text
       description: Teaching and Learning through Musical Songs
