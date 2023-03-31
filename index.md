@@ -20,7 +20,7 @@ sections:
   - infopic:
       title: Welcome Message by Principal Master Teacher
       button: Read more
-      url: /about-us/principals-message
+      url: /about-us/WELCOME MESSAGE BY PMTT
       image: /images/pmtt-uptlc.jpg
       alt: Image alt text
   - infopic:
