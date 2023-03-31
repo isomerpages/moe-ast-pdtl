@@ -20,7 +20,7 @@ sections:
   - infopic:
       title: Welcome Message by Principal Master Teacher
       button: Read more
-      url: /about-us/WELCOME MESSAGE BY PMTT
+      url: https://cms.isomer.gov.sg/sites/moe-ast-pdtl/folders/about-us/editPage/WELCOME%20MESSAGE%20BY%20PMTT.md
       image: /images/pmtt-uptlc.jpg
       alt: Image alt text
   - infopic:
