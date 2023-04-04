@@ -13,10 +13,14 @@ Master Teacher (Tamil Language)</h4>
 
 Mdm Alli d/o Allagoo joined the Academy of Singapore Teachers as a Tamil Language (TL) Master Teacher in 2016. She was formerly a Mother Tongue Languages Head of Department in schools for 25 years and a Senior Educational Technology Officer at the Educational Technology Division for 13 years. Alli completed her Bachelor of Arts (Tamil Language and Literature) at the Singapore Institute of Management University in 2011, and her Master of Education (Tamil Language) at the National Institute of Education in 2014. She also received the National Day Long Service Medal in 2007, and the Excellent Service Award in 2009 (Silver) and in 2010 (Gold). As a Master Teacher, she works closely with beginning teachers and Teacher Leaders of TL, providing professional learning support and guidance to enhance the teaching competencies of fellow TL teachers. She also conducts several workshops for TL teachers to build their capacity and competencies in the teaching and learning of TL, and is involved in the development of TL resources for the teaching fraternity
 
+
+
+
+
 <img src="/images/tn-photo--manjula-jpg-mid.jpg" style="width:150px">
 
 
-<h4>Mrs R Manjula Thangappan<br>
+<h4>Mdm Manjula Ramasamy <br>
 Master Teacher (Tamil Language)</h4>
 
 ### Description
@@ -25,7 +29,10 @@ Master Teacher (Tamil Language)</h4>
 Mdm Manjula Ramasamy has been a Tamil Language (TL) Master Teacher since 2013 in the Curriculum Planning and Development Division (CPDD) and subsequently, in the Academy of Singapore Teachers. Formerly a Curriculum Planning Officer at CPDD (TL Unit), and a Senior Teacher for Assessment and Pedagogy at the Umar Pulavar Tamil Language Centre (UPTLC), she was involved in developing the TL syllabi and instructional materials for both primary and secondary levels, and in coordinating professional development training programmes for TL teachers. She also mentored teachers embarking on overseas immersion programmes and was involved in the implementation of the National Elective Tamil Language Programme at UPTLC. In 2004, she was awarded the Most Inspiring Tamil Teacher Award_._&nbsp;As a Master Teacher, she guides teachers to be effective classroom leaders, optimising their professional learning and encouraging them to reflect and to innovate. Manjula has contributed to the teaching fraternity through her conference papers and sharing on classroom investigations and research related to the teaching and learning of TL, focusing on language skills especially writing. She hopes to build a community of ethical and competent teachers who work towards instilling the passion for TL in their students and sustaining it as a living language beyond the classroom.
 
 
+
 <img src="/images/mtt-mdm-letchimi.jpg" style="width:300px">
+
+
 
 <h4>Mdm Letchimi d/o Marimuthu<br>
 Master Teacher (Tamil Language)</h4>
