@@ -3,10 +3,7 @@ title: About Master Teachers
 permalink: /about-us/about-master-teachers/
 description: ""
 ---
-
-
-
-<img src="/images/picture11.png" style="width:300px">
+<img src="/images/picture11.png" style="width:150px">
 
 <h4>Mdm Alli d/o Allagoo<br>
 Master Teacher (Tamil Language)</h4>
