@@ -14,7 +14,7 @@ sections:
         - title: Teachers' resources
           description: ""
           url: /archives/resources/teachers-resources/
-        - title: Student's resources
+        - title: Students' resources
           description: ""
           url: archives/resources/students-resources
   - infopic:
