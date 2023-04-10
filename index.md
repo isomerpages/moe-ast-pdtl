@@ -31,7 +31,6 @@ sections:
       image: /images/home2.png
       alt: Image alt text
   - infopic:
-      title: நெஞ்சில் நிற்பவை
       button: "click here to watch video "
       url: https://vimeo.com/754110391
       image: /images/home22.png
@@ -39,7 +38,6 @@ sections:
       description: Teaching and Learning through Musical Songs
   - infopic:
       title: Webinar for TL teachers 2022
-      description: Infopic description
       button: Watch the webinar here
       url: https://vimeo.com/738561141
       image: /images/webinar.png
