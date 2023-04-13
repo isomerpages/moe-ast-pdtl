@@ -36,11 +36,11 @@ sections:
       alt: Image alt text
       description: Teaching and Learning through Musical Songs
   - infopic:
-      title: Webinar for TL teachers 2022
       button: Watch the webinar here
       url: https://vimeo.com/738561141
       image: /images/webinar.png
       alt: Image alt text
+      description: Webinar for TL teachers 2022
   - infopic:
       button: Click here to watch
       url: https://vimeo.com/738541396
