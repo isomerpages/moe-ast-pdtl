@@ -24,9 +24,8 @@ sections:
       image: /images/pmtt-uptlc.jpg
       alt: Image alt text
   - infopic:
-      title: நெஞ்சில் நிற்பவை
       description: 4th Lecture Series -Feb 2022
-      button: Watch Lecture
+      button: Click here to watch Lecture
       url: https://vimeo.com/754087974
       image: /images/home2.png
       alt: Image alt text
