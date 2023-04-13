@@ -11,11 +11,12 @@ sections:
       subtitle: Professional Development of Tamil Language Teachers
       background: /images/hero-banner.png
   - infopic:
-      title: Welcome Message by Principal Master Teacher
+      title: "வரவேற்புரை – தலைமை முதன்மை ஆசிரியர் – "
       button: Read more
       url: /welcome-message
       image: /images/pmtt-uptlc.jpg
       alt: Image alt text
+      description: Welcome Message by Principal Master Teacher
   - infopic:
       description: 4th Lecture Series -Feb 2022
       button: Click here to watch Lecture
