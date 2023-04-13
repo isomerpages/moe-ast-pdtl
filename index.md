@@ -33,7 +33,7 @@ sections:
       url: https://vimeo.com/738561141
       image: /images/webinar for tl teachers 2022.JPG
       alt: Image alt text
-      description: Webinar for TL teachers 2022
+      description: Webinar for Tamil Language Teachers 2022
   - infopic:
       button: Click here to watch
       url: https://vimeo.com/738541396
