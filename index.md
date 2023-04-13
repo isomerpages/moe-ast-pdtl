@@ -38,7 +38,7 @@ sections:
   - infopic:
       button: Watch the webinar here
       url: https://vimeo.com/738561141
-      image: /images/webinar.png
+      image: /images/webinar for tl teachers 2022.JPG
       alt: Image alt text
       description: Webinar for TL teachers 2022
   - infopic:
