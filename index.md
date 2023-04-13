@@ -21,7 +21,6 @@ sections:
       description: 4th Lecture Series -Feb 2022
       button: Click here to watch Lecture
       url: https://vimeo.com/754087974
-      image: /images/home2.png
       alt: Image alt text
   - infopic:
       button: "click here to watch video "
