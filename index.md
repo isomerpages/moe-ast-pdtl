@@ -18,7 +18,7 @@ sections:
           - title: PDTL's Latest Publication
             url: https://photos.app.goo.gl/aPH8ugmm4MNnoBBf6
   - infopic:
-      title: "வரவேற்புரை – தலைமை முதன்மை ஆசிரியர் – "
+      title: "வரவேற்புச் செய்தி – தலைமை முதன்மை ஆசிரியர் – "
       button: Read more
       url: /welcome-message
       image: /images/pmtt-uptlc.jpg
