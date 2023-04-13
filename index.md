@@ -44,7 +44,7 @@ sections:
   - infopic:
       button: Click here to watch
       url: https://vimeo.com/738541396
-      image: /images/carousel-banner-3 (1).png
+      image: /images/learn for life - tl and culture.jpg
       alt: Image alt text
       description: "Learn for Life : Tamil Culture & Tradition"
 ---
