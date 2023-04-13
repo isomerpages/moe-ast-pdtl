@@ -25,7 +25,7 @@ sections:
   - infopic:
       button: "click here to watch video "
       url: https://vimeo.com/754110391
-      image: /images/home22.png
+      image: /images/teaching  and learning through musical songs.jpg
       alt: Image alt text
       description: Teaching and Learning through Musical Songs
   - infopic:
