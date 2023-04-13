@@ -16,7 +16,7 @@ sections:
           - title: Webinar for TL Teachers 2023
             url: https://raw.githubusercontent.com/isomerpages/moe-ast-pdtl/staging/images/pdtl%20webinar%20motd%20.jpg
           - title: PDTL's Latest Publication
-            url: https://photos.app.goo.gl/aPH8ugmm4MNnoBBf6
+            url: https://raw.githubusercontent.com/isomerpages/moe-ast-pdtl/staging/images/microskills.jpg
   - infopic:
       title: "வரவேற்புச் செய்தி – தலைமை முதன்மை ஆசிரியர் – "
       button: Read more
