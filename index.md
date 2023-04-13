@@ -41,15 +41,10 @@ sections:
       url: https://vimeo.com/738561141
       image: /images/webinar.png
       alt: Image alt text
-  - infobar:
-      title: Tamil Culture & Tradition
-      subtitle: learn for life
-      url: https://vimeo.com/738541396
-      button: Click here to watch
   - infopic:
-      subtitle: Tamil Culture & Tradition
       button: Click here to watch
       url: https://vimeo.com/738541396
       image: /images/carousel-banner-3 (1).png
       alt: Image alt text
+      description: "Learn for Life : Tamil Culture & Tradition"
 ---
