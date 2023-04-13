@@ -10,6 +10,11 @@ sections:
       title: தமிழாசிரியர் பணித்திறன் மேம்பாட்டகம்
       subtitle: Professional Development of Tamil Language Teachers
       background: /images/hero-banner.png
+      dropdown:
+        title: Highlights
+        options:
+          - title: Webinar for TL Teachers 2023
+            url: https://photos.google.com/album/AF1QipPCB_BNfAduOyWKd4129MVxjDeXshlxnNCwQYn4
   - infopic:
       title: "வரவேற்புரை – தலைமை முதன்மை ஆசிரியர் – "
       button: Read more
