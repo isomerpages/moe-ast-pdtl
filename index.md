@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: Teachers' resources
           description: ""
-          url: /archives/resources/teachers-resources/
+          url: /teachers-resources
         - title: Students' resources
           description: ""
-          url: archives/resources/students-resources
+          url: /students-resources
   - infopic:
       title: Welcome Message by Principal Master Teacher
       button: Read more
