@@ -1,5 +1,5 @@
 collections:
-  archives:
+  resources:
     output: true
     order:
       - Photo Gallery/Tamil Language Seminar 2019.md
