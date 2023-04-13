@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/PDTL-logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Professional Excellence
+    collection: professional-excellence
+  - title: Programmes
+    collection: pd-training-schedule
+  - title: Resources
+    collection: resources
+  - title: Contact us
+    url: /pdtl/contact-us/

@@ -1,32 +1,44 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Title
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: தமிழாசிரியர் பணித்திறன் மேம்பாட்டகம்
+      subtitle: Professional Development of Tamil Language Teachers
+      background: /images/hero-banner.png
+  - infopic:
+      title: "வரவேற்புரை – தலைமை முதன்மை ஆசிரியர் – "
+      button: Read more
+      url: /welcome-message
+      image: /images/pmtt-uptlc.jpg
+      alt: Image alt text
+      description: Welcome Message by Principal Master Teacher
+  - infopic:
+      description: 4th Lecture Series -Feb 2022
+      button: Click here to watch Lecture
+      url: https://vimeo.com/754087974
+      alt: Image alt text
+      image: /images/4th tamil language online lecture series.jpg
+  - infopic:
+      button: "click here to watch video "
+      url: https://vimeo.com/754110391
+      image: /images/teaching  and learning through musical songs.jpg
+      alt: Image alt text
+      description: Teaching and Learning through Musical Songs
+  - infopic:
+      button: Watch the webinar here
+      url: https://vimeo.com/738561141
+      image: /images/webinar for tl teachers 2022.JPG
+      alt: Image alt text
+      description: Webinar for Tamil Language Teachers 2022
+  - infopic:
+      button: Click here to watch
+      url: https://vimeo.com/738541396
+      image: /images/learn for life - tl and culture.jpg
+      alt: Image alt text
+      description: "Learn for Life : Tamil Culture & Tradition"
 ---
-
