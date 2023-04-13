@@ -10,13 +10,6 @@ sections:
       title: தமிழாசிரியர் பணித்திறன் மேம்பாட்டகம்
       subtitle: Professional Development of Tamil Language Teachers
       background: /images/hero-banner.png
-      key_highlights:
-        - title: Teachers' resources
-          description: ""
-          url: /teachers-resources
-        - title: Students' resources
-          description: ""
-          url: /students-resources
   - infopic:
       title: Welcome Message by Principal Master Teacher
       button: Read more
