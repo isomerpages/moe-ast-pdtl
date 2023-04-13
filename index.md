@@ -14,7 +14,7 @@ sections:
         title: Highlights
         options:
           - title: Webinar for TL Teachers 2023
-            url: https://photos.app.goo.gl/vuVewhYnN9uFKcBW7
+            url: https://photos.app.goo.gl/taPz8snhH3nowXJC6
           - title: PDTL's Latest Publication
             url: https://photos.app.goo.gl/aPH8ugmm4MNnoBBf6
   - infopic:
