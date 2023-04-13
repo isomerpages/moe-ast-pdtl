@@ -3,7 +3,7 @@ title: Students' Resources
 permalink: /students-resources/
 description: ""
 ---
-## மாணவர்க்கான கற்றல் வளமைகள் (Students' Resources)
+### மாணவர்க்கான கற்றல் வளமைகள் (Students' Resources)
 
 
 ![உயர்நிலைப்பள்ளி மாணவர்களுக்காகத்  தமிழாசிரியர்கள் எழுதிய](/images/001storycompilation.png)
