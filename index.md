@@ -22,6 +22,7 @@ sections:
       button: Click here to watch Lecture
       url: https://vimeo.com/754087974
       alt: Image alt text
+      image: /images/4th tamil language online lecture series.jpg
   - infopic:
       button: "click here to watch video "
       url: https://vimeo.com/754110391
