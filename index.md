@@ -6,17 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
-  - hero:
-      title: தமிழாசிரியர் பணித்திறன் மேம்பாட்டகம்
-      subtitle: Professional Development of Tamil Language Teachers
-      background: /images/hero-banner.png
-      dropdown:
-        title: Highlights
-        options:
-          - title: Webinar for TL Teachers 2023
-            url: https://raw.githubusercontent.com/isomerpages/moe-ast-pdtl/staging/images/pdtl%20webinar%20motd%20.jpg
-          - title: PDTL's Latest Publication
-            url: https://raw.githubusercontent.com/isomerpages/moe-ast-pdtl/staging/images/microskills.jpg
+  - hero: {}
   - infopic:
       title: "வரவேற்புச் செய்தி – தலைமை முதன்மை ஆசிரியர் – "
       button: Read more
