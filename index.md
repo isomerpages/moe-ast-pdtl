@@ -6,7 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
-  - hero: {}
+  - hero:
+      background: /images/1st ppt uptlc website large.gif
   - infopic:
       title: "வரவேற்புச் செய்தி – தலைமை முதன்மை ஆசிரியர் – "
       button: Read more
