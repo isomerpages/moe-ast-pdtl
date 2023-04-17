@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1st ppt uptlc website large.gif
+      background: /images/1st ppt uptlc website white font large.gif
   - infopic:
       title: "வரவேற்புச் செய்தி – தலைமை முதன்மை ஆசிரியர் – "
       button: Read more
