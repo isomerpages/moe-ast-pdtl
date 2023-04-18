@@ -1,15 +1,15 @@
 ---
 layout: homepage
-title: Title
+title: Professional Development of Tamil Language
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/PDTL-logo.jpg
 permalink: /
 notification: ""
 sections:
   - hero:
       background: /images/1st ppt uptlc website white font large.gif
   - infopic:
-      title: "வரவேற்புச் செய்தி – தலைமை முதன்மை ஆசிரியர் – "
+      title: வரவேற்புச் செய்தி – தலைமை முதன்மை ஆசிரியர் –
       button: Read more
       url: /welcome-message
       image: /images/pmtt-uptlc.jpg
@@ -22,7 +22,7 @@ sections:
       alt: Image alt text
       image: /images/4th tamil language online lecture series.jpg
   - infopic:
-      button: "click here to watch video "
+      button: click here to watch video
       url: https://vimeo.com/754110391
       image: /images/teaching  and learning through musical songs.jpg
       alt: Image alt text
