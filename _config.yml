@@ -1,4 +1,4 @@
-title: Title
+title: Professional Development of Tamil Language
 url: https://pdtl.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -51,8 +51,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dh7eo6ru240ih.amplifyapp.com
 prod: https://master.dh7eo6ru240ih.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/PDTL-logo.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
