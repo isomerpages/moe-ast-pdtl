@@ -16,11 +16,12 @@ sections:
       alt: Image alt text
       description: Welcome Message by Principal Master Teacher
   - infopic:
-      description: 4th Lecture Series -Feb 2022
+      description: "Keynote Address : Powerful Reader : Need of the Hour Webinar for
+        Tamil Language 2023"
       button: Click here to watch Lecture
-      url: https://vimeo.com/754087974
+      url: " https://vimeo.com/851550032/290e565f1a?share=copy"
       alt: Image alt text
-      image: /images/4th tamil language online lecture series.jpg
+      image: /images/keynote address 15082023.png
   - infopic:
       button: click here to watch video
       url: https://vimeo.com/754110391
