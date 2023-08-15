@@ -20,7 +20,7 @@ sections:
         Tamil Language 2023"
       button: Click here to watch Lecture
       url: https://vimeo.com/851550032/290e565f1a?share=copy
-      alt: Image alt text
+      alt: Keynote Address
       image: /images/keynote frame.jpg
   - infopic:
       button: click here to watch video
