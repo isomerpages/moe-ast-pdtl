@@ -14,6 +14,7 @@ sections:
       url: /welcome-message
       image: /images/pmtt uptlc.png
       description: Welcome Message by Principal Master Teacher
+      alt: Principal's image
   - infopic:
       description: "Keynote Address : Powerful Reader : Need of the Hour Webinar for
         Tamil Language 2023"
