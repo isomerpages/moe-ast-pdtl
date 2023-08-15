@@ -13,7 +13,6 @@ sections:
       button: Read more
       url: /welcome-message
       image: /images/pmtt uptlc.png
-      alt: Image alt text
       description: Welcome Message by Principal Master Teacher
   - infopic:
       description: "Keynote Address : Powerful Reader : Need of the Hour Webinar for
