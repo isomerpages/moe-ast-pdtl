@@ -12,7 +12,7 @@ sections:
       title: வரவேற்புச் செய்தி – தலைமை முதன்மை ஆசிரியர் –
       button: Read more
       url: /welcome-message
-      image: /images/pmtt-uptlc.jpg
+      image: /images/pmtt uptlc.png
       alt: Image alt text
       description: Welcome Message by Principal Master Teacher
   - infopic:
