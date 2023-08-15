@@ -19,9 +19,9 @@ sections:
       description: "Keynote Address : Powerful Reader : Need of the Hour Webinar for
         Tamil Language 2023"
       button: Click here to watch Lecture
-      url: " https://vimeo.com/851550032/290e565f1a?share=copy"
+      url: https://vimeo.com/851550032/290e565f1a?share=copy
       alt: Image alt text
-      image: /images/keynote address 15082023.png
+      image: /images/keynote frame.jpg
   - infopic:
       button: click here to watch video
       url: https://vimeo.com/754110391
