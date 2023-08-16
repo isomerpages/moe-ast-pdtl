@@ -12,15 +12,16 @@ sections:
       title: வரவேற்புச் செய்தி – தலைமை முதன்மை ஆசிரியர் –
       button: Read more
       url: /welcome-message
-      image: /images/pmtt-uptlc.jpg
-      alt: Image alt text
+      image: /images/pmtt uptlc.png
       description: Welcome Message by Principal Master Teacher
+      alt: Principal's image
   - infopic:
-      description: 4th Lecture Series -Feb 2022
+      description: "Keynote Address : Powerful Reader : Need of the Hour Webinar for
+        Tamil Language 2023"
       button: Click here to watch Lecture
-      url: https://vimeo.com/754087974
-      alt: Image alt text
-      image: /images/4th tamil language online lecture series.jpg
+      url: https://vimeo.com/851550032/290e565f1a?share=copy
+      alt: Keynote Address
+      image: /images/keynote frame.jpg
   - infopic:
       button: click here to watch video
       url: https://vimeo.com/754110391
