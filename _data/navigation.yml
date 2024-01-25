@@ -1,0 +1,12 @@
+logo: /images/PDTL-logo.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Professional Excellence
+    collection: professional-excellence
+  - title: Programmes
+    collection: pd-training-schedule
+  - title: Resources
+    collection: resources
+  - title: Contact us
+    url: /pdtl/contact-us/

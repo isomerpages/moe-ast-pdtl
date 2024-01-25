@@ -1,0 +1,6 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Teachers' Resources.md
+      - Students' Resources.md
