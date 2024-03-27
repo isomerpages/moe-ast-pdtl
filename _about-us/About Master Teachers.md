@@ -9,7 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTT_Alli.jpg">
 </div>
 <h4>Mdm Alli d/o Allagoo<br>Master Teacher (Tamil Language)</h4>
-<h3>Description</h3>
+<p><strong>Description</strong>
+</p>
 <p>Mdm Alli d/o Allagoo joined the Academy of Singapore Teachers as a Tamil
 Language (TL) Master Teacher in 2016. She was formerly a Mother Tongue
 Languages Head of Department in schools for 25 years and a Senior Educational
@@ -29,7 +30,8 @@ for the teaching fraternity</p>
 <img style="width:150px" height="auto" width="100%" src="/images/tn-photo--manjula-jpg-mid.jpg">
 </div>
 <h4>Mdm Manjula Ramasamy <br>Master Teacher (Tamil Language)</h4>
-<h3>Description</h3>
+<p><strong>Description</strong>
+</p>
 <p>Mdm Manjula Ramasamy has been a Tamil Language (TL) Master Teacher since
 2013 in the Curriculum Planning and Development Division (CPDD) and subsequently,
 in the Academy of Singapore Teachers. Formerly a Curriculum Planning Officer
@@ -53,7 +55,8 @@ beyond the classroom.</p>
 <img style="width:300px" height="auto" width="100%" src="/images/mtt-mdm-letchimi.jpg">
 </div>
 <h4>Mdm Letchimi d/o Marimuthu<br>Master Teacher (Tamil Language)</h4>
-<h3>Description</h3>
+<p><strong>Description</strong>
+</p>
 <p>In her teaching career, Mdm Letchimi has served as a Tamil Language (TL)
 teacher in several Primary schools and a Secondary school. She has served
 a stint as MOE HQ officer in the Curriculum Planning &amp; Development
@@ -80,11 +83,9 @@ for Professional</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Murugan.jpg">
 </div>
-<p><strong>Mr G Murugan</strong>
+<h4>Mr G Murugan                            Master Teacher (Tamil Language)</h4>
+<p><strong>Description</strong>
 </p>
-<p><strong>Master Teacher (Tamil Language)</strong>
-</p>
-<p>Description</p>
 <p>Mr G Murugan joined the Academy of Singapore Teachers as a Tamil Language
 Master Teacher in 2024. He was a formerly a Lead Teacher for Tamil Language
 for 7 years and Subject Head for Mother Tongue for 15 years and Tamil Language
