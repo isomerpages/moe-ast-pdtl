@@ -30,7 +30,7 @@ for the teaching fraternity</p>
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" src="/images/tn-photo--manjula-jpg-mid.jpg">
 </div>
-<h4>Mdm Manjula Ramasamy </h4>
+<h4>Mdm Manjula Ramasamy</h4>
 <h4>Master Teacher (Tamil Language)</h4>
 <p><strong>Description</strong>
 </p>
@@ -56,7 +56,7 @@ beyond the classroom.</p>
 <div class="isomer-image-wrapper">
 <img style="width:300px" height="auto" width="100%" src="/images/mtt-mdm-letchimi.jpg">
 </div>
-<h4>Mdm Letchimi d/o Marimuthu </h4>
+<h4>Mdm Letchimi d/o Marimuthu</h4>
 <h4>Master Teacher (Tamil Language)</h4>
 <p><strong>Description</strong>
 </p>
@@ -86,7 +86,7 @@ for Professional</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Murugan.jpg">
 </div>
-<h4>Mr G Murugan </h4>
+<h4>Mr G Murugan</h4>
 <h4>Master Teacher (Tamil Language)</h4>
 <p><strong>Description</strong>
 </p>
