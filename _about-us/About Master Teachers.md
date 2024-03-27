@@ -8,7 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTT_Alli.jpg">
 </div>
-<h4>Mdm Alli d/o Allagoo<br>Master Teacher (Tamil Language)</h4>
+<h4>Mdm Alli d/o Allagoo</h4>
+<h4>Master Teacher (Tamil Language)</h4>
 <p><strong>Description</strong>
 </p>
 <p>Mdm Alli d/o Allagoo joined the Academy of Singapore Teachers as a Tamil
@@ -29,7 +30,8 @@ for the teaching fraternity</p>
 <div class="isomer-image-wrapper">
 <img style="width:150px" height="auto" width="100%" src="/images/tn-photo--manjula-jpg-mid.jpg">
 </div>
-<h4>Mdm Manjula Ramasamy <br>Master Teacher (Tamil Language)</h4>
+<h4>Mdm Manjula Ramasamy </h4>
+<h4>Master Teacher (Tamil Language)</h4>
 <p><strong>Description</strong>
 </p>
 <p>Mdm Manjula Ramasamy has been a Tamil Language (TL) Master Teacher since
@@ -54,7 +56,8 @@ beyond the classroom.</p>
 <div class="isomer-image-wrapper">
 <img style="width:300px" height="auto" width="100%" src="/images/mtt-mdm-letchimi.jpg">
 </div>
-<h4>Mdm Letchimi d/o Marimuthu  Master Teacher (Tamil Language)</h4>
+<h4>Mdm Letchimi d/o Marimuthu </h4>
+<h4>Master Teacher (Tamil Language)</h4>
 <p><strong>Description</strong>
 </p>
 <p>In her teaching career, Mdm Letchimi has served as a Tamil Language (TL)
@@ -83,7 +86,8 @@ for Professional</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Murugan.jpg">
 </div>
-<h4>Mr G Murugan                             Master Teacher (Tamil Language)</h4>
+<h4>Mr G Murugan </h4>
+<h4>Master Teacher (Tamil Language)</h4>
 <p><strong>Description</strong>
 </p>
 <p>Mr G Murugan joined the Academy of Singapore Teachers as a Tamil Language
