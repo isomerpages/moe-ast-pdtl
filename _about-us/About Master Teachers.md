@@ -78,10 +78,13 @@ Award (2014 - 2016); MOE Long Service Award (2019) and AST Academy Awards
 for Professional</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Murugan.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Murugan.jpg">
 </div>
-<p>Mr G Murugan</p>
-<p>Master Teacher (Tamil Language)</p>
+<p><strong>Mr G Murugan</strong>
+</p>
+<p><strong>Master Teacher (Tamil Language)</strong>
+</p>
+<p>Description</p>
 <p>Mr G Murugan joined the Academy of Singapore Teachers as a Tamil Language
 Master Teacher in 2024. He was a formerly a Lead Teacher for Tamil Language
 for 7 years and Subject Head for Mother Tongue for 15 years and Tamil Language
