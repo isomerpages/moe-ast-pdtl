@@ -83,7 +83,7 @@ for Professional</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Murugan.jpg">
 </div>
-<h4>Mr G Murugan                            Master Teacher (Tamil Language)</h4>
+<h4>Mr G Murugan                              Master Teacher (Tamil Language)</h4>
 <p><strong>Description</strong>
 </p>
 <p>Mr G Murugan joined the Academy of Singapore Teachers as a Tamil Language
