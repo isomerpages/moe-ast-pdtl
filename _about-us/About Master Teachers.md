@@ -54,7 +54,7 @@ beyond the classroom.</p>
 <div class="isomer-image-wrapper">
 <img style="width:300px" height="auto" width="100%" src="/images/mtt-mdm-letchimi.jpg">
 </div>
-<h4>Mdm Letchimi d/o Marimuthu<br>Master Teacher (Tamil Language)</h4>
+<h4>Mdm Letchimi d/o Marimuthu  Master Teacher (Tamil Language)</h4>
 <p><strong>Description</strong>
 </p>
 <p>In her teaching career, Mdm Letchimi has served as a Tamil Language (TL)
@@ -83,7 +83,7 @@ for Professional</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Murugan.jpg">
 </div>
-<h4>Mr G Murugan                              Master Teacher (Tamil Language)</h4>
+<h4>Mr G Murugan                             Master Teacher (Tamil Language)</h4>
 <p><strong>Description</strong>
 </p>
 <p>Mr G Murugan joined the Academy of Singapore Teachers as a Tamil Language
