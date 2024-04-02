@@ -2,7 +2,7 @@
 layout: homepage
 title: Professional Development of Tamil Language
 description: An Isomer site of the Singapore Government
-image: /images/PDTL-logo.jpg
+image: /images/PDLOGO.jpg
 permalink: /
 notification: ""
 sections:
