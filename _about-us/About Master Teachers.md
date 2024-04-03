@@ -8,7 +8,7 @@ variant: tiptap
 <h4></h4>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4by4_Alli.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_Alli.jpg">
 </div>
 <h4>Mdm Alli d/o Allagoo</h4>
 <h4>Master Teacher (Tamil Language)</h4>
@@ -32,7 +32,7 @@ for the teaching fraternity</p>
 <h4></h4>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4by4_manjula.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_manjula.jpg">
 </div>
 <h4>Mdm Manjula Ramasamy</h4>
 <h4>Master Teacher (Tamil Language)</h4>
@@ -60,7 +60,7 @@ beyond the classroom.</p>
 <h4></h4>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4by4_letchmi.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_letchmi.jpg">
 </div>
 <h4>Mdm Letchimi d/o Marimuthu</h4>
 <h4>Master Teacher (Tamil Language)</h4>
@@ -92,7 +92,7 @@ for Professional</p>
 <h4></h4>
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4by4_murugan.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_murugan.jpg">
 </div>
 <h4>Mr G Murugan</h4>
 <h4>Master Teacher (Tamil Language)</h4>
