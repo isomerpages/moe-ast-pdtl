@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <h4></h4>
 <h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__Alli.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4by4_Alli.jpg">
 </div>
 <h4>Mdm Alli d/o Allagoo</h4>
 <h4>Master Teacher (Tamil Language)</h4>
@@ -29,8 +30,9 @@ workshops for TL teachers to build their capacity and competencies in the
 teaching and learning of TL, and is involved in the development of TL resources
 for the teaching fraternity</p>
 <h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__Manjula.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4by4_manjula.jpg">
 </div>
 <h4>Mdm Manjula Ramasamy</h4>
 <h4>Master Teacher (Tamil Language)</h4>
@@ -56,8 +58,9 @@ a community of ethical and competent teachers who work towards instilling
 the passion for TL in their students and sustaining it as a living language
 beyond the classroom.</p>
 <h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_letchmi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4by4_letchmi.jpg">
 </div>
 <h4>Mdm Letchimi d/o Marimuthu</h4>
 <h4>Master Teacher (Tamil Language)</h4>
@@ -87,8 +90,9 @@ Award (2014 - 2016); MOE Long Service Award (2019) and AST Academy Awards
 for Professional</p>
 <p></p>
 <h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1_murugan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4by4_murugan.jpg">
 </div>
 <h4>Mr G Murugan</h4>
 <h4>Master Teacher (Tamil Language)</h4>
