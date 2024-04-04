@@ -2,7 +2,7 @@
 layout: homepage
 title: Professional Development of Tamil Language
 description: An Isomer site of the Singapore Government
-image: /images/uptlc_pd_logo.jpg
+image: /images/Professional_Development_of_Tamil_Language_Teachers_White.png
 permalink: /
 notification: ""
 sections:
