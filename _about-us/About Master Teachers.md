@@ -5,8 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4></h4>
+<h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTT_Alli.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_Alli.jpg">
 </div>
 <h4>Mdm Alli d/o Allagoo</h4>
 <h4>Master Teacher (Tamil Language)</h4>
@@ -27,8 +29,10 @@ the teaching competencies of fellow TL teachers. She also conducts several
 workshops for TL teachers to build their capacity and competencies in the
 teaching and learning of TL, and is involved in the development of TL resources
 for the teaching fraternity</p>
+<h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width:150px" height="auto" width="100%" src="/images/tn-photo--manjula-jpg-mid.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_manjula.jpg">
 </div>
 <h4>Mdm Manjula Ramasamy</h4>
 <h4>Master Teacher (Tamil Language)</h4>
@@ -53,8 +57,10 @@ of TL, focusing on language skills especially writing. She hopes to build
 a community of ethical and competent teachers who work towards instilling
 the passion for TL in their students and sustaining it as a living language
 beyond the classroom.</p>
+<h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width:300px" height="auto" width="100%" src="/images/mtt-mdm-letchimi.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_letchmi.jpg">
 </div>
 <h4>Mdm Letchimi d/o Marimuthu</h4>
 <h4>Master Teacher (Tamil Language)</h4>
@@ -83,8 +89,10 @@ She has received awards such as the National Day Award for Teaching Service
 Award (2014 - 2016); MOE Long Service Award (2019) and AST Academy Awards
 for Professional</p>
 <p></p>
+<h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Murugan.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_murugan.jpg">
 </div>
 <h4>Mr G Murugan</h4>
 <h4>Master Teacher (Tamil Language)</h4>
