@@ -2,5 +2,6 @@ collections:
   resources:
     output: true
     order:
+      - Tamil Grammar Resources.md
       - Teachers' Resources.md
       - Students' Resources.md
