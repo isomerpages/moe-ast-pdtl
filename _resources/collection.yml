@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Teachers' Resources.md
+      - Tamil Grammar Repository/Chapter 1.md
       - Tamil Grammar Repository/.keep
       - Students' Resources.md
