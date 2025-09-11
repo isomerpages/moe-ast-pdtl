@@ -5,4 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Tamil Grammar Repository
 ---
-<p></p>
+<p>இப்பகுதியில் தமிழ் இலக்கண மின்னிலக்கக் களஞ்சியத்தில் இடம்பெற்றுள்ள வளங்கள்
+இடம்பெறும்.</p>
