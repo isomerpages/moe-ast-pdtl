@@ -10,14 +10,3 @@ links:
     collection: resources
   - title: Contact us
     url: /pdtl/contact-us/
-  - title: வளமைகள்
-    url: /permalink
-    sublinks:
-      - title: இலக்கண மின்னிலக்கக் களஞ்சியம்
-        url: /permalink
-      - title: எழுத்து
-        url: /permalink
-      - title: சொல்
-        url: /permalink
-      - title: தொடர்
-        url: /permalink
