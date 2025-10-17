@@ -1,9 +1,0 @@
----
-title: Chapter 1
-permalink: /chapter-1/
-variant: tiptap
-description: ""
-third_nav_title: Tamil Grammar Repository
----
-<p>இப்பகுதியில் தமிழ் இலக்கண மின்னிலக்கக் களஞ்சியத்தில் இடம்பெற்றுள்ள வளங்கள்
-இடம்பெறும்.</p>
