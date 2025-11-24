@@ -62,11 +62,11 @@ sections:
           linktext: click here to watch video
           url: https://vimeo.com/1007749475/70a792c489
         - title: சிறப்புரை
-          description: "Overseas Speaker: Mr S Ramakrishnan, Tamil Nadu"
+          description: எழுத்தாளர் திரு எஸ் ராமகிருஷ்ணன், தமிழகம்
           linktext: click here to watch video
           url: https://vimeo.com/1007746300/ad81c8c524
         - title: கலந்துரையாடல் அங்கம்
-          description: Card description
+          description: சிறப்பு விருந்தினருடன் தலைமை முதன்மை ஆசிரியர்
           linktext: click here to watch video
           url: https://vimeo.com/1007743595/55cac426f1
 ---
