@@ -51,4 +51,22 @@ sections:
       image: /images/teaching  and learning through musical songs.jpg
       alt: Image alt text
       description: Teaching and Learning through Musical Songs
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: தலைமையுரை
+          description: Card description
+          linktext: click here to watch video
+          url: https://vimeo.com/1007749475/70a792c489
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
