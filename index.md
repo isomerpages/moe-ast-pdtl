@@ -58,7 +58,7 @@ sections:
         வளர்த்தல்
       cards:
         - title: தலைமையுரை
-          description: Mr N Sivarajan, Principal,  Seng Kang Secondary School
+          description: திரு என் சிவராசன், முதல்வர் செங்காங் உயர்நிலைப் பள்ளி
           linktext: click here to watch video
           url: https://vimeo.com/1007749475/70a792c489
         - title: சிறப்புரை
