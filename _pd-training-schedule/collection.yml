@@ -2,5 +2,6 @@ collections:
   pd-training-schedule:
     output: true
     order:
+      - Seminar.md
       - Webinar.md
       - Training Schedule 2023.md
