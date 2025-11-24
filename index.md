@@ -52,15 +52,11 @@ sections:
       alt: Image alt text
       description: Teaching and Learning through Musical Songs
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Webinar for Tamil Language Teachers 2024
       id: textcards
-      description: Text card description
+      description: எதிர்காலத் தயார்நிலைக்குரிய கற்போரின் 21-ஆம் நூற்றாண்டுத் திறன்களை
+        வளர்த்தல்
       cards:
-        - title: கலந்துரையாடல் அங்கம்
-          description: Card description
-          linktext: click here to watch video
-          url: https://vimeo.com/1007743595/55cac426f1
         - title: தலைமையுரை
           description: Card description
           linktext: click here to watch video
@@ -69,4 +65,8 @@ sections:
           description: Card description
           linktext: click here to watch video
           url: https://vimeo.com/1007746300/ad81c8c524
+        - title: கலந்துரையாடல் அங்கம்
+          description: Card description
+          linktext: click here to watch video
+          url: https://vimeo.com/1007743595/55cac426f1
 ---
