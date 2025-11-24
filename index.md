@@ -40,4 +40,13 @@ sections:
       image: /images/learn for life - tl and culture.jpg
       alt: Image alt text
       description: "Learn for Life : Tamil Culture & Tradition"
+  - infopic:
+      subtitle: Webinar 2024
+      id: infopic
+      description: எதிர்காலத் தயார்நிலைக்குரிய கற்போரின் 21-ஆம் நூற்றாண்டுத் திறன்களை
+        வளர்த்தல்
+      button: தலைமையுரை
+      url: https://vimeo.com/1007749475/70a792c489
+      image: /images/Slide1.jpg
+      alt: Image alt text
 ---
