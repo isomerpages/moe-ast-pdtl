@@ -57,10 +57,10 @@ sections:
       id: textcards
       description: Text card description
       cards:
-        - title: Card
+        - title: கலந்துரையாடல் அங்கம்
           description: Card description
-          linktext: Learn more
-          url: ""
+          linktext: click here to watch video
+          url: https://vimeo.com/1007743595/55cac426f1
         - title: தலைமையுரை
           description: Card description
           linktext: click here to watch video
