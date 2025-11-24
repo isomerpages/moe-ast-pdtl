@@ -48,18 +48,6 @@ sections:
           description: சிறப்பு விருந்தினருடன் தலைமை முதன்மை ஆசிரியர்
           linktext: click here to watch video
           url: https://vimeo.com/1007743595/55cac426f1
-  - infopic:
-      button: Click here to watch
-      url: https://vimeo.com/738541396
-      image: /images/learn for life - tl and culture.jpg
-      alt: Image alt text
-      description: "Learn for Life : Tamil Culture & Tradition"
-  - infopic:
-      button: click here to watch video
-      url: https://vimeo.com/754110391
-      image: /images/teaching  and learning through musical songs.jpg
-      alt: Image alt text
-      description: Teaching and Learning through Musical Songs
   - textcards:
       title: Seminar for Tamil Language Teachers 2025
       id: textcards
@@ -78,4 +66,16 @@ sections:
           description: வரலாற்று மறுபார்வையில் சிங்கப்பூர்த் தமிழரின் அனுபவங்கள்
           linktext: மின்னூல் வெளியீடு
           url: https://vimeo.com/1115366870/957a6ec0a1
+  - infopic:
+      button: Click here to watch
+      url: https://vimeo.com/738541396
+      image: /images/learn for life - tl and culture.jpg
+      alt: Image alt text
+      description: "Learn for Life : Tamil Culture & Tradition"
+  - infopic:
+      button: click here to watch video
+      url: https://vimeo.com/754110391
+      image: /images/teaching  and learning through musical songs.jpg
+      alt: Image alt text
+      description: Teaching and Learning through Musical Songs
 ---
