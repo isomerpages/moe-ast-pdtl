@@ -22,18 +22,7 @@ sections:
       url: https://vimeo.com/851550032/290e565f1a?share=copy
       alt: Keynote Address
       image: /images/keynote frame.jpg
-  - infopic:
-      button: click here to watch video
-      url: https://vimeo.com/754110391
-      image: /images/teaching  and learning through musical songs.jpg
-      alt: Image alt text
-      description: Teaching and Learning through Musical Songs
-  - infopic:
-      button: Watch the webinar here
-      url: https://vimeo.com/738561141
-      image: /images/webinar for tl teachers 2022.JPG
-      alt: Image alt text
-      description: Webinar for Tamil Language Teachers 2022
+      subtitle: Webinar 2023
   - infopic:
       button: Click here to watch
       url: https://vimeo.com/738541396
@@ -49,4 +38,16 @@ sections:
       url: https://vimeo.com/1007749475/70a792c489
       image: /images/Slide1.jpg
       alt: Image alt text
+  - infopic:
+      button: click here to watch video
+      url: https://vimeo.com/754110391
+      image: /images/teaching  and learning through musical songs.jpg
+      alt: Image alt text
+      description: Teaching and Learning through Musical Songs
+  - infopic:
+      button: Watch the webinar here
+      url: https://vimeo.com/738561141
+      image: /images/webinar for tl teachers 2022.JPG
+      alt: Image alt text
+      description: Webinar for Tamil Language Teachers 2022
 ---
