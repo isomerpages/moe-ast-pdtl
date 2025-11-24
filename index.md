@@ -30,27 +30,6 @@ sections:
       alt: Keynote Address
       image: /images/keynote frame.jpg
       subtitle: Webinar 2023
-  - infopic:
-      subtitle: Webinar 2024
-      id: infopic
-      description: எதிர்காலத் தயார்நிலைக்குரிய கற்போரின் 21-ஆம் நூற்றாண்டுத் திறன்களை
-        வளர்த்தல்
-      button: தலைமையுரை
-      url: https://vimeo.com/1007749475/70a792c489
-      image: /images/Slide1.jpg
-      alt: Image alt text
-  - infopic:
-      button: Click here to watch
-      url: https://vimeo.com/738541396
-      image: /images/learn for life - tl and culture.jpg
-      alt: Image alt text
-      description: "Learn for Life : Tamil Culture & Tradition"
-  - infopic:
-      button: click here to watch video
-      url: https://vimeo.com/754110391
-      image: /images/teaching  and learning through musical songs.jpg
-      alt: Image alt text
-      description: Teaching and Learning through Musical Songs
   - textcards:
       title: Webinar for Tamil Language Teachers 2024
       id: textcards
@@ -69,4 +48,34 @@ sections:
           description: சிறப்பு விருந்தினருடன் தலைமை முதன்மை ஆசிரியர்
           linktext: click here to watch video
           url: https://vimeo.com/1007743595/55cac426f1
+  - infopic:
+      button: Click here to watch
+      url: https://vimeo.com/738541396
+      image: /images/learn for life - tl and culture.jpg
+      alt: Image alt text
+      description: "Learn for Life : Tamil Culture & Tradition"
+  - infopic:
+      button: click here to watch video
+      url: https://vimeo.com/754110391
+      image: /images/teaching  and learning through musical songs.jpg
+      alt: Image alt text
+      description: Teaching and Learning through Musical Songs
+  - textcards:
+      title: Seminar for Tamil Language Teachers 2025
+      id: textcards
+      description: கடந்த காலத்தின்வழி எதிர்காலத்தை உருவாக்குதல்
+      cards:
+        - title: 15-ஆவது ஆண்டு நிறைவு
+          description: தமிழாசிரியர் பணித்திறன் மேம்பாட்டகம் 15-ஆம் ஆண்டு நினைவுப் பாதையும்
+            பயணமும்
+          linktext: ஒளிக்காட்சி
+          url: https://vimeo.com/1115378765/191104f20c
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
