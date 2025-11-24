@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Tamil Grammar Repository
 ---
-<h4><strong><u>இயல் - 4 புணரியல் </u></strong></h4>
+<h4><strong><u>இயல் - 4 புணரியல்</u></strong></h4>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -44,7 +44,7 @@ third_nav_title: Tamil Grammar Repository
 </table>
 <p></p>
 <p></p>
-<h4><strong><u>இயல் 5 - மொழிப் பயன்பாடு </u></strong></h4>
+<h4><strong><u>இயல் 5 - மொழிப் பயன்பாடு</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
