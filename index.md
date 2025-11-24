@@ -74,8 +74,8 @@ sections:
           description: திரு. அருண் மகிழ்நன், சிறப்பாய்வு ஆலோசகர், கொள்கை ஆய்வுக் கழகம்
           linktext: ஒளிக்காட்சி
           url: https://vimeo.com/1115019218/a2f9ede8e6
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: சுவடுகள் சுட்டும் நாளைய உலகம்
+          description: வரலாற்று மறுபார்வையில் சிங்கப்பூர்த் தமிழரின் அனுபவங்கள்
+          linktext: மின்னூல் வெளியீடு
+          url: https://vimeo.com/1115366870/957a6ec0a1
 ---
