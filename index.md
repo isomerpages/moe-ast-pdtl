@@ -31,12 +31,6 @@ sections:
       image: /images/keynote frame.jpg
       subtitle: Webinar 2023
   - infopic:
-      button: Click here to watch
-      url: https://vimeo.com/738541396
-      image: /images/learn for life - tl and culture.jpg
-      alt: Image alt text
-      description: "Learn for Life : Tamil Culture & Tradition"
-  - infopic:
       subtitle: Webinar 2024
       id: infopic
       description: எதிர்காலத் தயார்நிலைக்குரிய கற்போரின் 21-ஆம் நூற்றாண்டுத் திறன்களை
@@ -45,6 +39,12 @@ sections:
       url: https://vimeo.com/1007749475/70a792c489
       image: /images/Slide1.jpg
       alt: Image alt text
+  - infopic:
+      button: Click here to watch
+      url: https://vimeo.com/738541396
+      image: /images/learn for life - tl and culture.jpg
+      alt: Image alt text
+      description: "Learn for Life : Tamil Culture & Tradition"
   - infopic:
       button: click here to watch video
       url: https://vimeo.com/754110391
