@@ -65,8 +65,8 @@ sections:
           description: Card description
           linktext: click here to watch video
           url: https://vimeo.com/1007749475/70a792c489
-        - title: Card
+        - title: சிறப்புரை
           description: Card description
-          linktext: Learn more
-          url: ""
+          linktext: click here to watch video
+          url: https://vimeo.com/1007746300/ad81c8c524
 ---
