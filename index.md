@@ -70,10 +70,10 @@ sections:
             பயணமும்
           linktext: ஒளிக்காட்சி
           url: https://vimeo.com/1115378765/191104f20c
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: தலைமையுரை
+          description: திரு. அருண் மகிழ்நன், சிறப்பாய்வு ஆலோசகர், கொள்கை ஆய்வுக் கழகம்
+          linktext: ஒளிக்காட்சி
+          url: https://vimeo.com/1115019218/a2f9ede8e6
         - title: Card
           description: Card description
           linktext: Learn more
