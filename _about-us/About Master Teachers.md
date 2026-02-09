@@ -67,27 +67,23 @@ beyond the classroom.</p>
 <p><strong>Description</strong>
 </p>
 <p>In her teaching career, Mdm Letchimi has served as a Tamil Language (TL)
-teacher in several Primary schools and a Secondary school. She has served
-a stint as MOE HQ officer in the Curriculum Planning &amp; Development
-Division and Student Development Curriculum Division. She is currently
-serving as Master Teacher for Tamil Language. She attained a Masters of
-Education (Tamil Language) in 2008 from the Nanyang Technological University.
-As part of her teaching career, she has held key positions such as Senior
-&amp; Lead Teacher and helmed the TL department in both Civics &amp; Moral
-Education Unit (CPDD) and Character &amp; Citizenship Education Unit (SDCD).
-She has experiences in developing the instructional materials, both print
-and non-print for the TL teachers. She has conceptualized and conducted
-national level symposiums and workshops and had conducted master classes
-for TL pre-service teachers at the National Institute of Education. Besides,
-she uses her various professional development platforms to further develop
-teachers’ content knowledge, pedagogical skills and competencies in the
-teaching of Tamil Language and values. Mdm Letchimi is a firm believer
-in facilitating a professional growth mindset among teachers and mentors
-teachers to build their professional capacity to bring about quality teaching.
-She has received awards such as the National Day Award for Teaching Service
-(2013); National Day Award-The Efficiency Medal (2014); MOE Excellent Service
-Award (2014 - 2016); MOE Long Service Award (2019) and AST Academy Awards
-for Professional</p>
+teacher and has served a stint as MOE HQ officer in the Curriculum Planning
+&amp; Development Division (CPDD) and Student Development Curriculum Division
+(SDCD). She is serving as Master Teacher for Tamil Language since 2021.
+She attained a Master of Education (Tamil Language) in 2008 from the Nanyang
+Technological University. As part of her teaching career, she has held
+key positions such as Senior Teacher &amp; Lead Teacher and helmed the
+TL department in both Civics &amp; Moral Education Unit (CPDD) and Character
+&amp; Citizenship Education Unit (SDCD). She has experience in developing
+instructional materials for the TL teachers. She has conceptualized and
+conducted national level symposiums and workshops and conducted master
+classes for TL pre-service teachers at the National Institute of Education.
+She uses various professional development platforms to develop teachers’
+content knowledge, pedagogical skills and competencies in the teaching
+of Tamil Language and values. Having attended the Instructional Mentoring
+Programme, Mdm Letchimi believes in facilitating a professional growth
+mindset among teachers and mentors teachers to build their professional
+capacity to bring about quality teaching.</p>
 <p></p>
 <h4></h4>
 <h4></h4>
