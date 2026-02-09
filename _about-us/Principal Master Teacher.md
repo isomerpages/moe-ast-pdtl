@@ -7,8 +7,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pmtt-uptlc.jpg">
 </div>
-<p><strong>Description</strong>
-</p><pre><code> </code></pre>
 <p><strong>Principal Master Teacher</strong>
 </p>
 <p><strong>Description</strong>
