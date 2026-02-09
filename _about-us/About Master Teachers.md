@@ -59,8 +59,9 @@ the passion for TL in their students and sustaining it as a living language
 beyond the classroom.</p>
 <h4></h4>
 <h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_letchmi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Letchimi_photo__23_Jan.jpg">
 </div>
 <h4>Mdm Letchimi d/o Marimuthu</h4>
 <h4>Master Teacher (Tamil Language)</h4>
