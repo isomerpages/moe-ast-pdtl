@@ -5,15 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4></h4>
-<h4></h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_Alli.jpg">
 </div>
-<h4>Mdm Alli d/o Allagoo</h4>
-<h4>Master Teacher (Tamil Language)</h4>
-<p><strong>Description</strong>
-</p>
+<h4>Mdm Alli d/o Allagoo, Master Teacher (Tamil Language)</h4>
 <p>Mdm Alli d/o Allagoo joined the Academy of Singapore Teachers as a Tamil
 Language (TL) Master Teacher in 2016. She was formerly a Mother Tongue
 Languages Head of Department in schools for 25 years and a Senior Educational
@@ -30,14 +25,10 @@ workshops for TL teachers to build their capacity and competencies in the
 teaching and learning of TL, and is involved in the development of TL resources
 for the teaching fraternity</p>
 <h4></h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_manjula.jpg">
 </div>
-<h4>Mdm Manjula Ramasamy</h4>
-<h4>Master Teacher (Tamil Language)</h4>
-<p><strong>Description</strong>
-</p>
+<h4>Mdm Manjula Ramasamy, Master Teacher (Tamil Language)</h4>
 <p>Mdm Manjula Ramasamy has been a Tamil Language (TL) Master Teacher since
 2013 in the Curriculum Planning and Development Division (CPDD) and subsequently,
 in the Academy of Singapore Teachers. Formerly a Curriculum Planning Officer
@@ -58,15 +49,10 @@ a community of ethical and competent teachers who work towards instilling
 the passion for TL in their students and sustaining it as a living language
 beyond the classroom.</p>
 <h4></h4>
-<h4></h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Letchimi_photo__23_Jan.jpg">
 </div>
-<h4>Mdm Letchimi d/o Marimuthu</h4>
-<h4>Master Teacher (Tamil Language)</h4>
-<p><strong>Description</strong>
-</p>
+<h4>Mdm Letchimi d/o Marimuthu, Master Teacher (Tamil Language)</h4>
 <p>In her teaching career, Mdm Letchimi has served as a Tamil Language (TL)
 teacher and has served a stint as MOE HQ officer in the Curriculum Planning
 &amp; Development Division (CPDD) and Student Development Curriculum Division
@@ -85,16 +71,11 @@ of Tamil Language and values. Having attended the Instructional Mentoring
 Programme, Mdm Letchimi believes in facilitating a professional growth
 mindset among teachers and mentors teachers to build their professional
 capacity to bring about quality teaching.</p>
-<p></p>
-<h4></h4>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_murugan.jpg">
 </div>
-<h4>Mr G Murugan</h4>
-<h4>Master Teacher (Tamil Language)</h4>
-<p><strong>Description</strong>
-</p>
+<h4>Mr G Murugan, Master Teacher (Tamil Language)</h4>
 <p>Mr G Murugan joined the Academy of Singapore Teachers as a Tamil Language
 Master Teacher in 2024. He was a formerly a Lead Teacher for Tamil Language
 for 7 years and Subject Head for Mother Tongue for 15 years and Tamil Language
