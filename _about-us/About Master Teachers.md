@@ -99,4 +99,3 @@ learning. He aims to leverage information technology to impart language
 and culture, thereby preparing students and teachers for the future. His
 goal is to nurture Future ready educators who inspire a passion for joyful
 learning beyond borders.</p>
-<p>Development-Associate (2020).</p>
