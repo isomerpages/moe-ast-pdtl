@@ -2,29 +2,14 @@
 title: Teacher Growth Model
 permalink: /professional-excellence/teacher-growth-model/
 description: ""
+variant: tiptap
 ---
-<img src="/images/tgm.png" 
-         style="width:500px"
-	/>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TGM_1.jpg">
+</div>
+<p>
 <br>
-
-
-**The Ethical Educator**
-
-**நெறிமுறைசார்ந்த கல்வியாளர்**
-
-**A Competent Professional**
-
-**ஆற்றல்வாய்ந்த பணித்திறனாளர்**
-
-**The Collaborative Leader**
-
-**உடனிணைந்து கற்பவர்உடனிணைந்து கற்பவர்**
-
-**The Transformational Leader**
-
-**நிலைமாற்று வழிநடத்துநர்**
-
-**The Community Builder**
-
-**சமூக உணர்வை வளர்ப்பவர்**
+</p>
+<p></p>
