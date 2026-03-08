@@ -17,13 +17,14 @@ Alli completed her Bachelor of Arts (Tamil Language and Literature) at
 the Singapore Institute of Management University in 2011, and her Master
 of Education (Tamil Language) at the National Institute of Education in
 2014. She also received the National Day Long Service Medal in 2007, and
-the Excellent Service Award in 2009 (Silver) and in 2010 (Gold). As a Master
-Teacher, she works closely with beginning teachers and Teacher Leaders
-of TL, providing professional learning support and guidance to enhance
-the teaching competencies of fellow TL teachers. She also conducts several
-workshops for TL teachers to build their capacity and competencies in the
-teaching and learning of TL, and is involved in the development of TL resources
-for the teaching fraternity</p>
+the Excellent Service Award in 2009 (Silver) and in 2010 (Gold). She received
+her Public Administration Medal (Bronze) in 2021. As a Master Teacher,
+she works closely with beginning teachers and Teacher Leaders of TL, providing
+professional learning support and guidance to enhance the teaching competencies
+of fellow TL teachers. She also conducts several workshops for TL teachers
+to build their capacity and competencies in the teaching and learning of
+TL, and is involved in the development of TL resources for the teaching
+fraternity</p>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_manjula.jpg">
