@@ -1,9 +1,0 @@
----
-title: Secondary School
-permalink: /secondary-school/
-variant: tiptap
-description: ""
----
-<h4></h4>
-<h4>உயர்நிலைப்பள்ளி ஆசிரியர்களுக்குரிய வளங்கள் </h4>
-<p></p>
