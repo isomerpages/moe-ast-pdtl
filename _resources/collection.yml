@@ -2,8 +2,8 @@ collections:
   resources:
     output: true
     order:
-      - தொடக்கப் பள்ளி/3stages.md
-      - தொடக்கப் பள்ளி/.keep
+      - Primary/3stages.md
+      - Primary/.keep
       - Students' Resources.md
       - Teachers' Resources/Secondary.md
       - Teachers' Resources/கல்வியாளருக்கான சிகில்ஸ்ஃயூச்சர்.md
