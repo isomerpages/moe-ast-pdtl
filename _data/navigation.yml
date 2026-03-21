@@ -10,3 +10,8 @@ links:
     collection: teacher-resources
   - title: Contact us
     url: /pdtl/contact-us/
+  - title: Student Resources
+    collection: students-resources
+  - title: Student Resources
+    url: /permalink
+    sublinks: []
