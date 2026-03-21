@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Teachers' Resources.md
+      - Teachers' Resources old.md
       - Primary/.keep
       - Primary/பாடும் தமிழ்.md
       - Primary/படைப்பாக்கத்துடன் கற்பித்தல்.md
