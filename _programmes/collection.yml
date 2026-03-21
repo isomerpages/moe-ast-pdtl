@@ -2,7 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - Seminars.md
+      - Seminars 2025.md
       - Illumination Reading Circle/.keep
       - Dialogue With PMTT/.keep
       - Lecture Series/.keep
