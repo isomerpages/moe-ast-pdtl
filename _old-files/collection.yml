@@ -2,6 +2,7 @@ collections:
   old-files:
     output: true
     order:
+      - Training Schedule 2023.md
       - Tamil Language Seminar 2019.md
       - Teachers' Resources old.md
       - Students' Resources old.md
