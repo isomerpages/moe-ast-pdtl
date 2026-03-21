@@ -1,5 +1,5 @@
 collections:
-  resources:
+  teacher-resources:
     output: true
     order:
       - Teachers' Resources old.md
