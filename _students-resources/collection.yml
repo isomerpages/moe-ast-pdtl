@@ -2,7 +2,6 @@ collections:
   students-resources:
     output: true
     order:
-      - Students' Resources old.md
       - Secondary School/.keep
       - Primary School/பாடும் தமிழ் சுவரொட்டிகள்.md
       - Primary School/இருவழித்தொடர்பு மின்னூல்கள்.md
