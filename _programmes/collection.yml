@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Dialogue With Principal Master Teacher.md
       - Webinar/.keep
       - Seminars/.keep
       - Seminars/கருத்தரங்கம் 2025.md
