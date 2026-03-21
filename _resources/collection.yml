@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Primary/Learning Through Play.md
+      - Primary/விளையாட்டுவழிக் கற்றல்.md
       - Primary/பேச்சுவழிக் கருத்துப்பரிமாற்றம்.md
       - Primary/எழுத்துவழிக் கருத்துப்பரிமாற்றத் திறனை வளர்த்தல்.md
       - Primary/.keep
