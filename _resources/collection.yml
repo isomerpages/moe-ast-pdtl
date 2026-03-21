@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Secondary School.md
       - Primary School.md
       - Teachers' Resources.md
       - Tamil Grammar Repository/.keep
