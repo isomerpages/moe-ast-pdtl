@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Seminars.md
       - Illumination Reading Circle/.keep
       - Dialogue With PMTT/.keep
       - Lecture Series/.keep
