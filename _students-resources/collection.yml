@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Secondary School/.keep
+      - Primary School/Play Learning Resources.md
       - Primary School/கதைக்கொத்து.md
       - Primary School/.keep
