@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - மாணவர்களுக்குரிய வளங்கள்/.keep
       - Teachers' Resources.md
       - Teachers' Resources/.keep
       - Teachers' Resources/Primary.md
