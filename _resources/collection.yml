@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Teachers' Resources old.md
-      - Primary/.keep
-      - Primary/பாடும் தமிழ்.md
-      - Primary/படைப்பாக்கத்துடன் கற்பித்தல்.md
-      - Primary/விளையாட்டுவழிக் கற்றல்.md
-      - Primary/பேச்சுவழிக் கருத்துப்பரிமாற்றம்.md
-      - Primary/எழுத்துவழிக் கருத்துப்பரிமாற்றத் திறனை வளர்த்தல்.md
+      - Primary (Teachers)/.keep
+      - Primary (Teachers)/பாடும் தமிழ்.md
+      - Primary (Teachers)/படைப்பாக்கத்துடன் கற்பித்தல்.md
+      - Primary (Teachers)/விளையாட்டுவழிக் கற்றல்.md
+      - Primary (Teachers)/பேச்சுவழிக் கருத்துப்பரிமாற்றம்.md
+      - Primary (Teachers)/எழுத்துவழிக் கருத்துப்பரிமாற்றத் திறனை வளர்த்தல்.md
       - Secondary/.keep
       - Secondary/பேச்சுவழிக் கருத்துப்பரிமாற்றம்.md
       - Secondary/அகன்ற படிப்பு.md
