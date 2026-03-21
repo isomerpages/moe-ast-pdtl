@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Primary/spoken Interaction.md
       - Primary/எழுத்துவழிக் கருத்துப்பரிமாற்றத் திறனை வளர்த்தல்.md
       - Primary/.keep
       - Students' Resources.md
