@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Teaching for Writing.md
       - Secondary.md
       - Primary/பாடும் தமிழ்.md
       - Primary/படைப்பாக்கத்துடன் கற்பித்தல்.md
