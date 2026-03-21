@@ -2,5 +2,6 @@ collections:
   old-files:
     output: true
     order:
+      - Tamil Language Seminar 2019.md
       - Teachers' Resources old.md
       - Students' Resources old.md
