@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - உயர்நிலைப் பள்ளி/.keep
-      - Teachers' Resources.md
       - தொடக்கப் பள்ளி/.keep
       - தொடக்கப் பள்ளி/Primary School.md
       - Secondary School.md
