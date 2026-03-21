@@ -2,7 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Secondary/Spoken Interaction.md
+      - Secondary/பேச்சுவழிக் கருத்துப்பரிமாற்றம்.md
       - Secondary/Extensive Reading.md
       - Secondary/எழுத்துப் பணிக்கான கற்பித்தல்.md
       - Secondary/.keep
