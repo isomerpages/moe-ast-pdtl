@@ -1,0 +1,7 @@
+---
+title: SFED
+permalink: /sfed/
+variant: tiptap
+description: ""
+third_nav_title: Teachers' Resources
+---
