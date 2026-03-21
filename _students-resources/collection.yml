@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Secondary School/.keep
+      - Primary School/Story book.md
       - Primary School/.keep
