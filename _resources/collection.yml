@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Primary.md
       - Teachers' Resources.md
       - தொடக்கப் பள்ளி/.keep
       - தொடக்கப் பள்ளி/Primary School.md
