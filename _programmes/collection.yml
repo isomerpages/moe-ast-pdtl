@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Illumination Reading Circle/Illumination Reading Circle.md
       - Illumination Reading Circle/.keep
       - Dialogue With PMTT/.keep
       - Lecture Series/.keep
