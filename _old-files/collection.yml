@@ -2,4 +2,5 @@ collections:
   old-files:
     output: true
     order:
+      - Teachers' Resources old.md
       - Students' Resources old.md
