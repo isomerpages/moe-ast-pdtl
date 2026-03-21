@@ -16,5 +16,13 @@ description: ""
 </p>
 <h3><strong>கலந்துரையாடல் அங்கம்</strong></h3>
 <p>சிறப்பு விருந்தினருடன் தலைமை முதன்மை ஆசிரியர்</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>ஒளிக்காட்சி</strong>
 </p>
+</div>
+</details>
+</div>
+<p></p>
