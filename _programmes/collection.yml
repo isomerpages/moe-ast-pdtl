@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Lecture Series/.keep
       - Seminbar/.keep
       - Webinar/.keep
       - Tamil Language Seminar 2019.md
