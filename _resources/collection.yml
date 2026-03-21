@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - 3stages.md
       - தொடக்கப் பள்ளி/.keep
       - Students' Resources.md
       - மாணவர்களுக்குரிய வளங்கள்/Primary.md
