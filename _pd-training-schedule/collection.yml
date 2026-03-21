@@ -2,7 +2,6 @@ collections:
   pd-training-schedule:
     output: true
     order:
-      - Illumination Reading Circle.md
       - Lecture Series.md
       - Seminar.md
       - Webinar.md
