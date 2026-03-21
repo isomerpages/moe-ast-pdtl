@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Lecture Series.md
       - Dialogue With Principal Master Teacher.md
       - Webinar/.keep
       - Seminars/.keep
