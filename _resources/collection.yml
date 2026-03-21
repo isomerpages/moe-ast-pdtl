@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - JCCI.md
       - Secondary School.md
       - Primary School.md
       - Teachers' Resources.md
