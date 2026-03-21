@@ -2,4 +2,5 @@ collections:
   students-resources:
     output: true
     order:
+      - Secondary School/.keep
       - Primary School/.keep
