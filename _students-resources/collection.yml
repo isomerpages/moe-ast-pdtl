@@ -1,4 +1,5 @@
 collections:
   students-resources:
     output: true
-    order: []
+    order:
+      - Primary School/.keep
