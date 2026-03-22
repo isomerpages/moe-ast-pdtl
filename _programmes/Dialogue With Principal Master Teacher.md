@@ -34,7 +34,7 @@ description: ""
 <p>உலகளாவிய நிலையில் கல்வியின்போக்குகள்</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://vimeo.com/1130792373/e29a987700" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/1130792373/e29a987700</a> 
+<p><a href="https://vimeo.com/1130792373/e29a987700" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/1130792373/e29a987700</a>
 </p>
 </td>
 </tr>
@@ -46,7 +46,7 @@ description: ""
 <p>எதிர்காலத் தயார்நிலைக்குரிய மாணவர்களுக்கு வழிகாட்டுதல்</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://vimeo.com/935385610/5d711a01fc" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/935385610/5d711a01fc</a> 
+<p><a href="https://vimeo.com/935385610/5d711a01fc" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/935385610/5d711a01fc</a>
 </p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ description: ""
 <p>மகிழ்வுறு கற்றலை வடிவமைக்கும் பாங்கு</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://vimeo.com/1129663800/276d3fd5ef" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/1129663800/276d3fd5ef</a> 
+<p><a href="https://vimeo.com/1129663800/276d3fd5ef" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/1129663800/276d3fd5ef</a>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ description: ""
 <p>நாளைய மதிப்பீடு: மதிப்பளவு முதல் வழிகாட்டல் வரை</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://vimeo.com/1175179575/b87758700d" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/1175179575/b87758700d</a> 
+<p><a href="https://vimeo.com/1175179575/b87758700d" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/1175179575/b87758700d</a>
 </p>
 </td>
 </tr>
