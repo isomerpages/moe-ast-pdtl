@@ -6,9 +6,7 @@ description: ""
 ---
 <h4>தமிழாசிரியர்களிடையே தொடர்ந்து வாசிப்புப் பழக்கத்தை ஊக்குவிக்கும் வகையில் வாசகர் வட்டம் தொடங்கப்பட்டது. இது ஆண்டுதோறும் பருவத்திற்கு ஒரு நிகழ்வாக நடைபெற்றுக்கொண்டு வருகிறது.</h4>
 <h4></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://vimeo.com/873223836/4dfd1e8c14?share=copy&amp;fl=sv&amp;fe=ci" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">விடியல் வாசகர் வட்டம் 1</div><div class="isomer-card-description">சிறுகதைத் தலைப்பு: குந்துதல் வழமை, அமர்ந்தால் புதுமை 
-(மொழிபெயர்ப்புப் படைப்பு) 
-கதாசிரியர்: சியா ஜூ மிங்</div><div class="isomer-card-link">ஒளிக்காட்சி </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://vimeo.com/873223836/4dfd1e8c14?share=copy&amp;fl=sv&amp;fe=ci" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">விடியல் வாசகர் வட்டம் 1</div><div class="isomer-card-description">சிறுகதைத் தலைப்பு: குந்துதல் வழமை, அமர்ந்தால் புதுமை (மொழிபெயர்ப்புப் படைப்பு) கதாசிரியர்: சியா ஜூ மிங்</div><div class="isomer-card-link">ஒளிக்காட்சி</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://vimeo.com/1050247732/9e98f4feb9?share=copy&amp;fl=sv&amp;fe=ci" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">விடியல் வாசகர் வட்டம் 2</div>
