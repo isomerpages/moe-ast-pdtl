@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>தமிழாசிரியர்களுக்குரிய வலையரங்கம் 2023</strong></h4>
-<h4></h4>
+<p><strong>கருப்பொருள்: &nbsp;ஆற்றல்மிகு&nbsp;வாசகர்:&nbsp;தெரிவும்&nbsp;குரலும்</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -59,7 +60,8 @@ description: ""
 <p></p>
 <h4><strong>தமிழாசிரியர்களுக்குரிய வலையரங்கம் 2024</strong></h4>
 <p></p>
-<p>எதிர்காலத் தயார்நிலைக்குரிய கற்போரின் 21-ஆம் நூற்றாண்டுத் திறன்களை வளர்த்தல்</p>
+<p><strong>கருப்பொருள்: எதிர்காலத் தயார்நிலைக்குரிய கற்போரின் 21-ஆம் நூற்றாண்டுத் திறன்களை வளர்த்தல்</strong>
+</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://vimeo.com/1007749475/70a792c489?share=copy&amp;fl=sv&amp;fe=ci" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">தலைமையுரை</div><div class="isomer-card-description">எழுத்தாளர் திரு எஸ் ராமகிருஷ்ணன், தமிழகம்</div><div class="isomer-card-link">ஒளிக்காட்சி</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://vimeo.com/1007746300/ad81c8c524?share=copy&amp;fl=sv&amp;fe=ci" class="isomer-card">
 <div class="isomer-card-body">
