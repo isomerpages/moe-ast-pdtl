@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TGM_1.jpg">
 </div>
-<p>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/teacher-growth-model/" rel="noopener noreferrer nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/professional-excellence/teacher-growth-model/</a>
 <br>
 </p>
 <p></p>
