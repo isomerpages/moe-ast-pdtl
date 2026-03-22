@@ -19,9 +19,11 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>உத்திபூர்வ உந்துகை 1</p>
 <p>Strategic Thrust 1</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>தமிழை வாழும் மொழியாக நிலைத்திருக்கச் செய்தல்</p>
 <p><strong>S</strong>ustain Tamil as a living language</p>
 </td>
 </tr>
