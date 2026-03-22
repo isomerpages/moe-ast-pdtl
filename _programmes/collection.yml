@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Webinar.md
+      - Seminars/.keep
+      - Seminars/கருத்தரங்கம் 2025.md
       - Lecture Series.md
       - Dialogue With Principal Master Teacher.md
-      - Seminars/கருத்தரங்கம் 2025.md
-      - Seminars/.keep
       - Illumination Reading Circle.md
