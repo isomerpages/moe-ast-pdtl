@@ -21,11 +21,11 @@ description: ""
 <div class="isomer-card-link">ஒளிக்காட்சி</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">விடியல் வாசகர் வட்டம் 5</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://vimeo.com/1171609982/61725c69d7?share=copy&amp;fl=sv&amp;fe=ci" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">விடியல் வாசகர் வட்டம் 6</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-description">கற்பித்தலில் குறுப்படத்தின் வீரியமும் தாக்கமும்</div>
+<div class="isomer-card-link">ஒளிக்காட்சி</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">விடியல் வாசகர் வட்டம் 7</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
