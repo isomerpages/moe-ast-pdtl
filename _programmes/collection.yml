@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - கருத்தரங்கம் 2025.md
       - Webinar.md
       - Lecture Series.md
       - Dialogue With Principal Master Teacher.md
