@@ -22,8 +22,7 @@ description: ""
 <div class="isomer-card-description">Day 1: Motivation and Impact through Bharathiyar and Bharathidasan’s inspirational
 poems. Day 2: The unique perspectives on Tamil Literature and Grammar</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://vimeo.com/933650366/9eedd5668f?share=copy&amp;fl=sv&amp;fe=ci" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">விரிவுரைத் தொடர் 4</div><div class="isomer-card-description">பயன்பாட்டு இலக்கணம்: நோக்கும் பயனும் 
-விரிவுரை: முனைவர் ப. மதிவாணன்</div><div class="isomer-card-link">ஒளிக்காட்சி</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://vimeo.com/933650366/9eedd5668f?share=copy&amp;fl=sv&amp;fe=ci" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">விரிவுரைத் தொடர் 4</div><div class="isomer-card-description">பயன்பாட்டு இலக்கணம்: நோக்கும் பயனும் விரிவுரை: முனைவர் ப. மதிவாணன்</div><div class="isomer-card-link">ஒளிக்காட்சி</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://vimeo.com/1129425746/9264b52385" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">விரிவுரைத் தொடர் 5</div>
