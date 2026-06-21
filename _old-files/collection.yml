@@ -2,6 +2,7 @@ collections:
   old-files:
     output: true
     order:
+      - Guiding Principles for PD Tamil Language old.md
       - Teachers' Resources.md
       - Training Schedule 2023.md
       - Tamil Language Seminar 2019.md
