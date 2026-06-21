@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>தமிழாசிரியர்களுக்குரிய வலையரங்கம் 2022</strong></h4>
-<p><strong>கருப்பொருள்: &nbsp;இலக்கு ஒன்று; பாதைகள் வேறு </strong>
+<p><strong>கருப்பொருள்: &nbsp;இலக்கு ஒன்று; பாதைகள் வேறு</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -14,26 +14,25 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>தலைப்பு</p>
+<p><strong>தலைப்பு</strong>
+</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>வேறுபடுத்தப்பட்ட கற்பித்தல் </strong>
-</p>
+<p>வேறுபடுத்தப்பட்ட கற்பித்தல்</p>
 </li>
 <li>
-<p><strong>வேறுபடுத்தப்பட்ட கற்றல் கற்பித்தல் செயற்பாடுகள் </strong>
-</p>
+<p>வேறுபடுத்தப்பட்ட கற்றல் கற்பித்தல் செயற்பாடுகள்</p>
 </li>
 </ol>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ஒளிக்காட்சி: <a href="https://vimeo.com/738561141" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/738561141</a> 
+<p>ஒளிக்காட்சி: <a href="https://vimeo.com/738561141" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/738561141</a>
 </p>
 </td>
 </tr>
@@ -51,7 +50,8 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>தலைப்பு</p>
+<p><strong>தலைப்பு</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>சிறப்புரையாளர்கள்</p>
@@ -61,8 +61,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>சிறப்புரை 1:</strong>
 </p>
-<p><strong>சிங்கப்பூர்த் தமிழ் மாணவர்களின் வாசிப்புப் பழக்கம் - ஓர் ஆய்வு</strong>
-</p>
+<p>சிங்கப்பூர்த் தமிழ் மாணவர்களின் வாசிப்புப் பழக்கம் - ஓர் ஆய்வு</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>முனைவர் சீதா லட்சுமி</strong>
@@ -74,8 +73,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>சிறப்புரை 2:</strong>
 </p>
-<p><strong>தமிழ்ப் பாடக்கலைத்திட்டத்தில் பன்முனைப்பாங்கிலான பனுவல்களைப் பயன்படுத்துதலும் பள்ளிகளில் அகன்ற வாசிப்புத் திட்டத்தை வளர்த்திடுதலும்</strong>
-</p>
+<p>தமிழ்ப் பாடக்கலைத்திட்டத்தில் பன்முனைப்பாங்கிலான பனுவல்களைப் பயன்படுத்துதலும்
+பள்ளிகளில் அகன்ற வாசிப்புத் திட்டத்தை வளர்த்திடுதலும்</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>திருவாட்டி மும்தாஸ் காசிம் </strong>பாடக்கலைத்திட்ட வரைவு மேம்பாட்டுப்
