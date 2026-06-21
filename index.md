@@ -14,7 +14,7 @@ sections:
       description: Welcome Message by Principal Master Teacher
       alt: Principal's image
       button: Read More
-      url: https://pdtl.moe.edu.sg/welcome-message/
+      url: /welcome-message/
   - infobar:
       title: Infobar
       subtitle: Add informational text
