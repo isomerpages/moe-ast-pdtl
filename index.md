@@ -17,4 +17,15 @@ sections:
       alt: Principal Master Teacher image
       button: Read More
       url: /welcome-message/
+  - infocols:
+      title: எங்களைப்பற்றி...
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Mission and Vision
+          description: ""
+        - title: Principal Master Teacher
+          description: ""
+        - title: Master Teachers
+          description: ""
 ---
