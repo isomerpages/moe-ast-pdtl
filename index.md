@@ -18,10 +18,9 @@ sections:
       button: Read More
       url: /welcome-message/
   - textcards:
-      title: எங்களைப்பற்றி...
-      subtitle: Add informational text
+      title: Tamil Language Teachers
+      subtitle: Professional Development of
       id: textcards
-      description: Text card description
       cards:
         - title: Mission and Vision
           description: ""
