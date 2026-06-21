@@ -4,6 +4,42 @@ permalink: /webinar/
 variant: tiptap
 description: ""
 ---
+<h4><strong>தமிழாசிரியர்களுக்குரிய வலையரங்கம் 2022</strong></h4>
+<p><strong>கருப்பொருள்: &nbsp;இலக்கு ஒன்று; பாதைகள் வேறு </strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>தலைப்பு</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>வேறுபடுத்தப்பட்ட கற்பித்தல் </strong>
+</p>
+</li>
+<li>
+<p><strong>வேறுபடுத்தப்பட்ட கற்றல் கற்பித்தல் செயற்பாடுகள் </strong>
+</p>
+</li>
+</ol>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ஒளிக்காட்சி: <a href="https://vimeo.com/738561141" rel="noopener noreferrer nofollow" target="_blank">https://vimeo.com/738561141</a> 
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>தமிழாசிரியர்களுக்குரிய வலையரங்கம் 2023</strong></h4>
 <p><strong>கருப்பொருள்: &nbsp;ஆற்றல்மிகு&nbsp;வாசகர்:&nbsp;தெரிவும்&nbsp;குரலும்</strong>
 </p>
