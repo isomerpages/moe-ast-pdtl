@@ -17,15 +17,22 @@ sections:
       alt: Principal Master Teacher image
       button: Read More
       url: /welcome-message/
-  - infocols:
+  - textcards:
       title: எங்களைப்பற்றி...
-      id: infocols
-      linktext: Learn more
-      infoboxes:
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
         - title: Mission and Vision
           description: ""
+          linktext: Learn more
+          url: ""
         - title: Principal Master Teacher
           description: ""
+          linktext: Learn more
+          url: ""
         - title: Master Teachers
           description: ""
+          linktext: Learn more
+          url: ""
 ---
