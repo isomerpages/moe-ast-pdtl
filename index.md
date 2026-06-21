@@ -26,7 +26,7 @@ sections:
         - title: Mission and Vision
           description: ""
           linktext: Learn more
-          url: ""
+          url: /about-us/mission-and-vision/
         - title: Principal Master Teacher
           description: ""
           linktext: Learn more
