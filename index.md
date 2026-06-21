@@ -30,7 +30,7 @@ sections:
         - title: Principal Master Teacher
           description: ""
           linktext: Learn more
-          url: ""
+          url: /about-us/principals-master-teacher-message/
         - title: Master Teachers
           description: ""
           linktext: Learn more
