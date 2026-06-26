@@ -2,7 +2,7 @@ collections:
   teacher-resources:
     output: true
     order:
-      - Primary/Example Title1.md
+      - Primary/என்னால் முடியும்.md
       - Primary/படைப்பாக்கத்துடன் கற்பித்தல் பாட ஆய்வு அணுகுமுறை.md
       - Primary/.keep
       - Primary/பாடும் தமிழ்.md
