@@ -42,9 +42,6 @@ description: "மதிப்பிற்குரிய தமிழாசி�
 image: /images/pmtt-uptlc.jpg
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pmtt-uptlc.jpg">
-</div>
 <p>மதிப்பிற்குரிய தமிழாசிரியப் பெருமக்களே,</p>
 <p>வணக்கம். சிங்கப்பூர் ஆசிரியர் கலைக்கழகத்தின்கீழ் இயங்குகின்ற தமிழாசிரியர்&nbsp;
 பணித்திறன் மேம்பாட்டகம் சில முக்கியக் குறிக்கோள்களை அடியொற்றிச் செயற்பட்டுவருகிறது.
