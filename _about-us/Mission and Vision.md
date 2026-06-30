@@ -2,17 +2,20 @@
 title: Mission and Vision
 permalink: /about-us/mission-and-vision/
 description: ""
+variant: tiptap
 ---
-
-
-**இலக்கு** (Mission)  
-   
-தமிழாசிரியர்கள் தம் பணித்திறனை மேம்படுத்திக் கொள்வதன்மூலம் அவர்கள் சிறந்த வகுப்பறை வழிநடத்துநர்களாகவும் கற்கும் சமூகத்தினராகவும் திகழ்தல்
-
-Building capacity of Tamil Teachers to become professional classroom leaders; community of learners.
-
-**தொலைநோக்கு** (Vision)
-
-தமிழாசிரியர்களின் நிலைமாற்றத்திற்குரிய பணித்திறன் மேம்பாட்டின்வழிப் பள்ளிகளில் தமிழ்மொழி கற்றல் கற்பித்தல் தரத்தை மேம்படுத்துதல்
-
-To enhance the transformative professional development of Tamil Teachers for quality teaching and learning of Tamil Language in schools.
+<p><strong>தொலைநோக்கு</strong>&nbsp;(Vision)</p>
+<p>சிங்கப்பூர்த் தமிழாசிரியரின் தொழில்முறை மூலதனத்தை மேம்படுத்துவதற்கு அவரை
+எதிர்காலத் தயார்நிலைக்குரிய கல்வியாளராகவும் எண்ணப்பிரதிபலிப்பை மேற்கொள்ளும்
+சமூகத்தினராகவும் உருவாக்குதல்</p>
+<p>Building the professional capital of the Singapore Tamil Language teachers
+to become future-ready educators and community of reflective practitioners.</p>
+<p></p>
+<p><strong>இலக்கு</strong>&nbsp;(Mission)
+<br>உயர்தர கற்றல் கற்பித்தலை வளர்ப்பதற்கும் தமிழாசிரியர் வழிநடத்தும் தொழில்முறை
+செயற்பாட்டில் உன்னதத்தை உருவாக்குவதற்கும் அவருடன் உடனிணைந்து அவர்தம் தொழில்முறை
+கற்றலை மேம்படுத்துதல்</p>
+<p>Collaborating with Tamil Language teachers to enhance their professional
+learning to foster high-quality teaching and learning and cultivating a
+teacher-led culture of professional excellence.</p>
+<p></p>

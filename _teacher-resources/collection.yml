@@ -1,0 +1,33 @@
+collections:
+  teacher-resources:
+    output: true
+    order:
+      - Primary/என்னால் முடியும்.md
+      - Primary/படைப்பாக்கத்துடன் கற்பித்தல் பாட ஆய்வு அணுகுமுறை.md
+      - Primary/.keep
+      - Primary/பாடும் தமிழ்.md
+      - Primary/படைப்பாக்கத்துடன் கற்பித்தல்.md
+      - Primary/விளையாட்டுவழிக் கற்றல்.md
+      - Primary/பேச்சுவழிக் கருத்துப்பரிமாற்றம்.md
+      - Primary/எழுத்துவழிக் கருத்துப்பரிமாற்றத் திறனை வளர்த்தல்.md
+      - Secondary/.keep
+      - Secondary/பேச்சுவழிக் கருத்துப்பரிமாற்றம்.md
+      - Secondary/அகன்ற படிப்பு.md
+      - Secondary/எழுத்துப் பணிக்கான கற்பித்தல்.md
+      - Teachers' Resources/பயன்மிகு கற்றலுக்குத் திறம்மிகு கற்பித்தல்.md
+      - "Teachers' Resources/தமிழ்மொழிப் பாடம்: நோக்கமும் செயற்பாடும் பயனும்.md"
+      - Teachers' Resources/மகிழ்வூட்டும் கற்றல்.md
+      - Teachers' Resources/தமிழ் முத்துக்கள்.md
+      - Teachers' Resources/.keep
+      - Teachers' Resources/கல்வியாளருக்கான சிகில்ஸ்ஃயூச்சர்.md
+      - Teachers' Resources/பயன்பாட்டு இலக்கணம்.md
+      - Teachers' Resources/கல்வியியல் நோக்கில் தமிழ் அறம்.md
+      - Teachers' Resources/மரபும் பண்பாடும்.md
+      - Teachers' Resources/கற்றலை உணர்தல்.md
+      - Teachers' Resources/பயன்மிகு கற்பித்தல், அர்த்தமிகு கற்றல்.md
+      - Tamil Grammar Repository/.keep
+      - Tamil Grammar Repository/தமிழ் இலக்கண மின்னிலக்கக் களஞ்சியம் வெளியீடு.md
+      - Tamil Grammar Repository/எழுத்து.md
+      - Tamil Grammar Repository/சொல்.md
+      - Tamil Grammar Repository/தொடர்.md
+      - Tamil Grammar Repository/புணரியல், மொழிப் பயன்பாடு.md

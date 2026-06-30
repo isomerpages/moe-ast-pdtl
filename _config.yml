@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dh7eo6ru240ih.amplifyapp.com
 prod: https://master.dh7eo6ru240ih.amplifyapp.com
-shareicon: /images/uptlc_pd_logo.jpg
+shareicon: /images/Professional_Development_of_Tamil_Language_Teachers_White.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

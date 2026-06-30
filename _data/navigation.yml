@@ -1,12 +1,14 @@
-logo: /images/uptlc_pd_logo.jpg
+logo: /images/PDLOGO.jpg
 links:
   - title: About Us
     collection: about-us
   - title: Professional Excellence
     collection: professional-excellence
   - title: Programmes
-    collection: pd-training-schedule
-  - title: Resources
-    collection: resources
+    collection: programmes
+  - title: Teacher Resources
+    collection: teacher-resources
+  - title: Student Resources
+    collection: students-resources
   - title: Contact us
     url: /pdtl/contact-us/

@@ -1,7 +1,8 @@
 ---
-title: Guiding Principles for PD Tamil Language
+title: Guiding Principles for PD Tamil Language old
 permalink: /professional-excellence/guiding-principles-for-pd-tamil-language/
 description: ""
+variant: tiptap
 ---
 **Guiding Principles for Professional Development**
 

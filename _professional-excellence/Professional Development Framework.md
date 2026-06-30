@@ -2,14 +2,28 @@
 title: Professional Development Framework
 permalink: /professional-excellence/professional-development-framework/
 description: ""
+variant: tiptap
 ---
-The PDTL team will adapt the framework of Key Professional Learning Areas designed for TL teachers to realise the desired PD outcomes for TL teachers. The 4 key learning areas and the multiple modes of professional learning are based on the relevant Learning Dimensions and Competencies of the Teacher Growth Model (TGM). The key areas are as follows:
-
-| Professional Development Framework |
-| --- |
-| Strengthening Practices |
-| Learning & Development |
-| Mentoring |
-| Reflective Practices |
-
-![PD framework](/images/pdframework.png)
+<h4>எதிர்காலத் தயார்நிலைக்குரிய தமிழாசிரியர்களின் தொழில்முறை மூலதனத்திற்கு உரமூட்டும் வடிவமாதிரி</h4>
+<p>தமிழாசிரியர் பணித்திறன் மேம்பாட்டகம் எதிர்காலத் தயார்நிலைக்குரிய தமிழாசிரியர்களின்
+தொழில்முறை மூலதனத்திற்கு உரமூட்டும் வகையில் தன் வடிவமாதிரியைக் கல்வி அமைச்சின்
+கோட்பாடுகளையும் சிங்கப்பூர் ஆசிரியர் கலைக்கழகத்தின் தொழில்முறை கற்றலுக்குரிய
+முதன்மைக் கூறுகளையும் கீழ்க்காணும் மூன்று முக்கியக் காரணங்களையும் கருத்திற்கொண்டு
+உருவாக்கியுள்ளது.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>சிங்கப்பூர்த் தமிழ்மொழிப் பாடக்கலைத்திட்டம்</p>
+</li>
+<li>
+<p>நன்னூல் கூறும் (13-ஆம் நூற்றாண்டைச் சார்ந்த தமிழ் இலக்கண நூல்) ஆசிரியரின்
+சிறப்பியல்புகள்</p>
+</li>
+<li>
+<p>அடையாளங்கண்ட தேவைகளின் அடிப்படையில் தமிழாசிரியர் சமூகத்தினரிடம் தொழில்முறை
+கற்றலை வளர்த்தல்</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PDTL_Framework_.jpg">
+</div>
+<p></p>

@@ -5,4 +5,4 @@ description: ""
 ---
 [Click here to review schedule](/files/PDTL%20Training%20Schedule%202023-For%20Circulation.pdf)
 
-<img src="/images/qrcode.jpeg" style="width:400px" />
+<img src="/images/qrcode.jpeg" style="width:400px">

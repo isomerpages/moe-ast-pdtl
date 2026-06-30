@@ -5,15 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4></h4>
-<h4></h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_Alli.jpg">
 </div>
-<h4>Mdm Alli d/o Allagoo</h4>
-<h4>Master Teacher (Tamil Language)</h4>
-<p><strong>Description</strong>
-</p>
+<h4>Mdm Alli d/o Allagoo, Master Teacher (Tamil Language)</h4>
 <p>Mdm Alli d/o Allagoo joined the Academy of Singapore Teachers as a Tamil
 Language (TL) Master Teacher in 2016. She was formerly a Mother Tongue
 Languages Head of Department in schools for 25 years and a Senior Educational
@@ -22,22 +17,19 @@ Alli completed her Bachelor of Arts (Tamil Language and Literature) at
 the Singapore Institute of Management University in 2011, and her Master
 of Education (Tamil Language) at the National Institute of Education in
 2014. She also received the National Day Long Service Medal in 2007, and
-the Excellent Service Award in 2009 (Silver) and in 2010 (Gold). As a Master
-Teacher, she works closely with beginning teachers and Teacher Leaders
-of TL, providing professional learning support and guidance to enhance
-the teaching competencies of fellow TL teachers. She also conducts several
-workshops for TL teachers to build their capacity and competencies in the
-teaching and learning of TL, and is involved in the development of TL resources
-for the teaching fraternity</p>
-<h4></h4>
+the Excellent Service Award in 2009 (Silver) and in 2010 (Gold). She received
+her Public Administration Medal (Bronze) in 2021. As a Master Teacher,
+she works closely with beginning teachers and Teacher Leaders of TL, providing
+professional learning support and guidance to enhance the teaching competencies
+of fellow TL teachers. She also conducts several workshops for TL teachers
+to build their capacity and competencies in the teaching and learning of
+TL, and is involved in the development of TL resources for the teaching
+fraternity</p>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_manjula.jpg">
 </div>
-<h4>Mdm Manjula Ramasamy</h4>
-<h4>Master Teacher (Tamil Language)</h4>
-<p><strong>Description</strong>
-</p>
+<h4>Mdm Manjula Ramasamy, Master Teacher (Tamil Language)</h4>
 <p>Mdm Manjula Ramasamy has been a Tamil Language (TL) Master Teacher since
 2013 in the Curriculum Planning and Development Division (CPDD) and subsequently,
 in the Academy of Singapore Teachers. Formerly a Curriculum Planning Officer
@@ -58,46 +50,33 @@ a community of ethical and competent teachers who work towards instilling
 the passion for TL in their students and sustaining it as a living language
 beyond the classroom.</p>
 <h4></h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_letchmi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Letchimi_photo__23_Jan.jpg">
 </div>
-<h4>Mdm Letchimi d/o Marimuthu</h4>
-<h4>Master Teacher (Tamil Language)</h4>
-<p><strong>Description</strong>
-</p>
+<h4>Mdm Letchimi d/o Marimuthu, Master Teacher (Tamil Language)</h4>
 <p>In her teaching career, Mdm Letchimi has served as a Tamil Language (TL)
-teacher in several Primary schools and a Secondary school. She has served
-a stint as MOE HQ officer in the Curriculum Planning &amp; Development
-Division and Student Development Curriculum Division. She is currently
-serving as Master Teacher for Tamil Language. She attained a Masters of
-Education (Tamil Language) in 2008 from the Nanyang Technological University.
-As part of her teaching career, she has held key positions such as Senior
-&amp; Lead Teacher and helmed the TL department in both Civics &amp; Moral
-Education Unit (CPDD) and Character &amp; Citizenship Education Unit (SDCD).
-She has experiences in developing the instructional materials, both print
-and non-print for the TL teachers. She has conceptualized and conducted
-national level symposiums and workshops and had conducted master classes
-for TL pre-service teachers at the National Institute of Education. Besides,
-she uses her various professional development platforms to further develop
-teachers’ content knowledge, pedagogical skills and competencies in the
-teaching of Tamil Language and values. Mdm Letchimi is a firm believer
-in facilitating a professional growth mindset among teachers and mentors
-teachers to build their professional capacity to bring about quality teaching.
-She has received awards such as the National Day Award for Teaching Service
-(2013); National Day Award-The Efficiency Medal (2014); MOE Excellent Service
-Award (2014 - 2016); MOE Long Service Award (2019) and AST Academy Awards
-for Professional</p>
-<p></p>
-<h4></h4>
+teacher and has served a stint as MOE HQ officer in the Curriculum Planning
+&amp; Development Division (CPDD) and Student Development Curriculum Division
+(SDCD). She is serving as Master Teacher for Tamil Language since 2021.
+She attained a Master of Education (Tamil Language) in 2008 from the Nanyang
+Technological University. As part of her teaching career, she has held
+key positions such as Senior Teacher &amp; Lead Teacher and helmed the
+TL department in both Civics &amp; Moral Education Unit (CPDD) and Character
+&amp; Citizenship Education Unit (SDCD). She has experience in developing
+instructional materials for the TL teachers. She has conceptualized and
+conducted national level symposiums and workshops and conducted master
+classes for TL pre-service teachers at the National Institute of Education.
+She uses various professional development platforms to develop teachers’
+content knowledge, pedagogical skills and competencies in the teaching
+of Tamil Language and values. Having attended the Instructional Mentoring
+Programme, Mdm Letchimi believes in facilitating a professional growth
+mindset among teachers and mentors teachers to build their professional
+capacity to bring about quality teaching.</p>
 <h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/4by4_murugan.jpg">
 </div>
-<h4>Mr G Murugan</h4>
-<h4>Master Teacher (Tamil Language)</h4>
-<p><strong>Description</strong>
-</p>
+<h4>Mr G Murugan, Master Teacher (Tamil Language)</h4>
 <p>Mr G Murugan joined the Academy of Singapore Teachers as a Tamil Language
 Master Teacher in 2024. He was a formerly a Lead Teacher for Tamil Language
 for 7 years and Subject Head for Mother Tongue for 15 years and Tamil Language
@@ -121,4 +100,3 @@ learning. He aims to leverage information technology to impart language
 and culture, thereby preparing students and teachers for the future. His
 goal is to nurture Future ready educators who inspire a passion for joyful
 learning beyond borders.</p>
-<p>Development-Associate (2020).</p>

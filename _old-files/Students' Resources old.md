@@ -1,5 +1,5 @@
 ---
-title: Students' Resources
+title: Students' Resources old
 permalink: /students-resources/
 description: ""
 variant: tiptap

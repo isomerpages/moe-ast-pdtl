@@ -1,0 +1,11 @@
+collections:
+  old-files:
+    output: true
+    order:
+      - Example Title1.md
+      - Guiding Principles for PD Tamil Language old.md
+      - Teachers' Resources.md
+      - Training Schedule 2023.md
+      - Tamil Language Seminar 2019.md
+      - Teachers' Resources old.md
+      - Students' Resources old.md
